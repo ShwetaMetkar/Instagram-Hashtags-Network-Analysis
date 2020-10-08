@@ -1,0 +1,6478 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d1" for="edge" attr.name="weight" attr.type="long"/>
+<key id="d0" for="node" attr.name="weight" attr.type="long"/>
+<graph edgedefault="undirected"><node id="2020">
+  <data key="d0">3</data>
+</node>
+<node id="cricket">
+  <data key="d0">108</data>
+</node>
+<node id="abdeallien">
+  <data key="d0">2</data>
+</node>
+<node id="csk">
+  <data key="d0">221</data>
+</node>
+<node id="abdevilliers">
+  <data key="d0">11</data>
+</node>
+<node id="cskvsmi">
+  <data key="d0">25</data>
+</node>
+<node id="davidwarner">
+  <data key="d0">7</data>
+</node>
+<node id="dc">
+  <data key="d0">26</data>
+</node>
+<node id="dineshkarthik">
+  <data key="d0">6</data>
+</node>
+<node id="djbravo">
+  <data key="d0">6</data>
+</node>
+<node id="dream11ipl">
+  <data key="d0">28</data>
+</node>
+<node id="dream11ipl2020">
+  <data key="d0">8</data>
+</node>
+<node id="ipl">
+  <data key="d0">218</data>
+</node>
+<node id="ipl2020">
+  <data key="d0">90</data>
+</node>
+<node id="ipl2020memesupdates">
+  <data key="d0">6</data>
+</node>
+<node id="kanewilliamson">
+  <data key="d0">6</data>
+</node>
+<node id="kkr">
+  <data key="d0">44</data>
+</node>
+<node id="klrahul">
+  <data key="d0">34</data>
+</node>
+<node id="kxip">
+  <data key="d0">19</data>
+</node>
+<node id="manishpandey">
+  <data key="d0">6</data>
+</node>
+<node id="mi">
+  <data key="d0">82</data>
+</node>
+<node id="mivscsk">
+  <data key="d0">17</data>
+</node>
+<node id="msdhoni">
+  <data key="d0">94</data>
+</node>
+<node id="polard">
+  <data key="d0">6</data>
+</node>
+<node id="rcb">
+  <data key="d0">145</data>
+</node>
+<node id="rohitsharma45">
+  <data key="d0">9</data>
+</node>
+<node id="rr">
+  <data key="d0">28</data>
+</node>
+<node id="shreyasiyer">
+  <data key="d0">7</data>
+</node>
+<node id="srh">
+  <data key="d0">36</data>
+</node>
+<node id="stevesmith">
+  <data key="d0">10</data>
+</node>
+<node id="telugumemes">
+  <data key="d0">12</data>
+</node>
+<node id="telugutrolls">
+  <data key="d0">9</data>
+</node>
+<node id="viratkohli">
+  <data key="d0">89</data>
+</node>
+<node id="ambatirayudu">
+  <data key="d0">6</data>
+</node>
+<node id="amitshah">
+  <data key="d0">7</data>
+</node>
+<node id="bhakt">
+  <data key="d0">7</data>
+</node>
+<node id="dhoni">
+  <data key="d0">92</data>
+</node>
+<node id="instagram">
+  <data key="d0">24</data>
+</node>
+<node id="kangana">
+  <data key="d0">7</data>
+</node>
+<node id="kohli">
+  <data key="d0">11</data>
+</node>
+<node id="mirzapur2">
+  <data key="d0">7</data>
+</node>
+<node id="modi">
+  <data key="d0">8</data>
+</node>
+<node id="mumbaiindians">
+  <data key="d0">82</data>
+</node>
+<node id="up">
+  <data key="d0">7</data>
+</node>
+<node id="yogi">
+  <data key="d0">7</data>
+</node>
+<node id="andale">
+  <data key="d0">6</data>
+</node>
+<node id="atlixcomakeup">
+  <data key="d0">6</data>
+</node>
+<node id="atlixcomakeupartist">
+  <data key="d0">6</data>
+</node>
+<node id="makeup">
+  <data key="d0">7</data>
+</node>
+<node id="rafadigital">
+  <data key="d0">6</data>
+</node>
+<node id="balapliar">
+  <data key="d0">4</data>
+</node>
+<node id="racenights">
+  <data key="d0">4</data>
+</node>
+<node id="balapmotornet">
+  <data key="d0">2</data>
+</node>
+<node id="bangalore">
+  <data key="d0">6</data>
+</node>
+<node id="chennai">
+  <data key="d0">34</data>
+</node>
+<node id="chennaifoodie">
+  <data key="d0">6</data>
+</node>
+<node id="chennaisuperkings">
+  <data key="d0">69</data>
+</node>
+<node id="chinnathala">
+  <data key="d0">6</data>
+</node>
+<node id="cskfan">
+  <data key="d0">6</data>
+</node>
+<node id="cskfans">
+  <data key="d0">35</data>
+</node>
+<node id="cskforever">
+  <data key="d0">6</data>
+</node>
+<node id="cskreturns">
+  <data key="d0">15</data>
+</node>
+<node id="indianpremierleague">
+  <data key="d0">9</data>
+</node>
+<node id="iplseason">
+  <data key="d0">6</data>
+</node>
+<node id="iplt20">
+  <data key="d0">13</data>
+</node>
+<node id="ipltreatment">
+  <data key="d0">13</data>
+</node>
+<node id="madras">
+  <data key="d0">6</data>
+</node>
+<node id="mahi">
+  <data key="d0">48</data>
+</node>
+<node id="mumbai">
+  <data key="d0">15</data>
+</node>
+<node id="raina">
+  <data key="d0">9</data>
+</node>
+<node id="sureshraina">
+  <data key="d0">26</data>
+</node>
+<node id="thaladhoni">
+  <data key="d0">12</data>
+</node>
+<node id="whistlepodu">
+  <data key="d0">30</data>
+</node>
+<node id="yellove">
+  <data key="d0">18</data>
+</node>
+<node id="yelloveagain">
+  <data key="d0">7</data>
+</node>
+<node id="yellowe">
+  <data key="d0">6</data>
+</node>
+<node id="bbvsiplipl">
+  <data key="d0">2</data>
+</node>
+<node id="bcci">
+  <data key="d0">41</data>
+</node>
+<node id="bhfyp">
+  <data key="d0">33</data>
+</node>
+<node id="cricketer">
+  <data key="d0">27</data>
+</node>
+<node id="cricketfans">
+  <data key="d0">34</data>
+</node>
+<node id="cricketmerijaan">
+  <data key="d0">28</data>
+</node>
+<node id="dhonism">
+  <data key="d0">18</data>
+</node>
+<node id="dream">
+  <data key="d0">24</data>
+</node>
+<node id="hardikpandya">
+  <data key="d0">34</data>
+</node>
+<node id="icc">
+  <data key="d0">44</data>
+</node>
+<node id="india">
+  <data key="d0">59</data>
+</node>
+<node id="indiancricket">
+  <data key="d0">53</data>
+</node>
+<node id="indiancricketteam">
+  <data key="d0">48</data>
+</node>
+<node id="love">
+  <data key="d0">53</data>
+</node>
+<node id="msd">
+  <data key="d0">51</data>
+</node>
+<node id="msdians">
+  <data key="d0">20</data>
+</node>
+<node id="rohitsharma">
+  <data key="d0">76</data>
+</node>
+<node id="sachintendulkar">
+  <data key="d0">43</data>
+</node>
+<node id="teamindia">
+  <data key="d0">43</data>
+</node>
+<node id="thala">
+  <data key="d0">27</data>
+</node>
+<node id="virat">
+  <data key="d0">28</data>
+</node>
+<node id="worldcup">
+  <data key="d0">23</data>
+</node>
+<node id="birthday">
+  <data key="d0">3</data>
+</node>
+<node id="funnymemes">
+  <data key="d0">11</data>
+</node>
+<node id="birthdayboy">
+  <data key="d0">3</data>
+</node>
+<node id="captaincool">
+  <data key="d0">2</data>
+</node>
+<node id="captaindhoni">
+  <data key="d0">2</data>
+</node>
+<node id="mahendrasinghdhoni">
+  <data key="d0">9</data>
+</node>
+<node id="meme">
+  <data key="d0">17</data>
+</node>
+<node id="comment4comment">
+  <data key="d0">2</data>
+</node>
+<node id="tamilindustry">
+  <data key="d0">4</data>
+</node>
+<node id="cricketfever">
+  <data key="d0">5</data>
+</node>
+<node id="cricketlife">
+  <data key="d0">9</data>
+</node>
+<node id="cricketlover">
+  <data key="d0">10</data>
+</node>
+<node id="cricketlovers">
+  <data key="d0">12</data>
+</node>
+<node id="crickets">
+  <data key="d0">7</data>
+</node>
+<node id="cricketupdates">
+  <data key="d0">7</data>
+</node>
+<node id="cricketwireless">
+  <data key="d0">4</data>
+</node>
+<node id="cskvsrcb">
+  <data key="d0">4</data>
+</node>
+<node id="delhi">
+  <data key="d0">8</data>
+</node>
+<node id="fun">
+  <data key="d0">12</data>
+</node>
+<node id="indian">
+  <data key="d0">6</data>
+</node>
+<node id="insta">
+  <data key="d0">8</data>
+</node>
+<node id="instadaily">
+  <data key="d0">15</data>
+</node>
+<node id="instagood">
+  <data key="d0">23</data>
+</node>
+<node id="instalike">
+  <data key="d0">5</data>
+</node>
+<node id="instapic">
+  <data key="d0">6</data>
+</node>
+<node id="lol">
+  <data key="d0">6</data>
+</node>
+<node id="match">
+  <data key="d0">11</data>
+</node>
+<node id="mumbaiindiansfan">
+  <data key="d0">8</data>
+</node>
+<node id="photography">
+  <data key="d0">15</data>
+</node>
+<node id="photoshoot">
+  <data key="d0">8</data>
+</node>
+<node id="sports">
+  <data key="d0">8</data>
+</node>
+<node id="cricketlove">
+  <data key="d0">4</data>
+</node>
+<node id="cskvdc">
+  <data key="d0">2</data>
+</node>
+<node id="cskvmi">
+  <data key="d0">6</data>
+</node>
+<node id="cskwin">
+  <data key="d0">2</data>
+</node>
+<node id="delhicapitals">
+  <data key="d0">8</data>
+</node>
+<node id="dhoni7">
+  <data key="d0">8</data>
+</node>
+<node id="dream11">
+  <data key="d0">9</data>
+</node>
+<node id="dubai">
+  <data key="d0">7</data>
+</node>
+<node id="fafduplessis">
+  <data key="d0">6</data>
+</node>
+<node id="friends">
+  <data key="d0">7</data>
+</node>
+<node id="friendship">
+  <data key="d0">5</data>
+</node>
+<node id="hyderabad">
+  <data key="d0">6</data>
+</node>
+<node id="ipl2020updates">
+  <data key="d0">6</data>
+</node>
+<node id="ipl2020viralkohlialien">
+  <data key="d0">2</data>
+</node>
+<node id="iplcontest">
+  <data key="d0">2</data>
+</node>
+<node id="iplcricket">
+  <data key="d0">2</data>
+</node>
+<node id="iplcrickettrolls">
+  <data key="d0">2</data>
+</node>
+<node id="iplfan">
+  <data key="d0">4</data>
+</node>
+<node id="iplnews">
+  <data key="d0">7</data>
+</node>
+<node id="ipluae">
+  <data key="d0">6</data>
+</node>
+<node id="jntuh">
+  <data key="d0">5</data>
+</node>
+<node id="kingsxipunjab">
+  <data key="d0">9</data>
+</node>
+<node id="life">
+  <data key="d0">8</data>
+</node>
+<node id="likeforlikes">
+  <data key="d0">9</data>
+</node>
+<node id="memes">
+  <data key="d0">23</data>
+</node>
+<node id="midefeat">
+  <data key="d0">2</data>
+</node>
+<node id="mumbaiinstagrammers">
+  <data key="d0">2</data>
+</node>
+<node id="photo">
+  <data key="d0">8</data>
+</node>
+<node id="photooftheday">
+  <data key="d0">7</data>
+</node>
+<node id="rbc">
+  <data key="d0">2</data>
+</node>
+<node id="tamil">
+  <data key="d0">8</data>
+</node>
+<node id="telugucomedy">
+  <data key="d0">7</data>
+</node>
+<node id="tmkoc">
+  <data key="d0">7</data>
+</node>
+<node id="dankmemes">
+  <data key="d0">6</data>
+</node>
+<node id="explore">
+  <data key="d0">4</data>
+</node>
+<node id="funny">
+  <data key="d0">8</data>
+</node>
+<node id="trending">
+  <data key="d0">6</data>
+</node>
+<node id="dhoniretires">
+  <data key="d0">2</data>
+</node>
+<node id="exploremore">
+  <data key="d0">2</data>
+</node>
+<node id="gangabairaj">
+  <data key="d0">3</data>
+</node>
+<node id="instashare">
+  <data key="d0">3</data>
+</node>
+<node id="instashayari">
+  <data key="d0">3</data>
+</node>
+<node id="kanpur">
+  <data key="d0">3</data>
+</node>
+<node id="lockdown">
+  <data key="d0">4</data>
+</node>
+<node id="maa">
+  <data key="d0">3</data>
+</node>
+<node id="quarantine">
+  <data key="d0">3</data>
+</node>
+<node id="quarantinelife">
+  <data key="d0">3</data>
+</node>
+<node id="rakshabandhan">
+  <data key="d0">3</data>
+</node>
+<node id="respect">
+  <data key="d0">3</data>
+</node>
+<node id="shayari">
+  <data key="d0">3</data>
+</node>
+<node id="sisters">
+  <data key="d0">3</data>
+</node>
+<node id="thekaplisharmashow">
+  <data key="d0">3</data>
+</node>
+<node id="zsquare">
+  <data key="d0">3</data>
+</node>
+<node id="haha">
+  <data key="d0">3</data>
+</node>
+<node id="instaphoto">
+  <data key="d0">5</data>
+</node>
+<node id="loveyourself">
+  <data key="d0">4</data>
+</node>
+<node id="photographer">
+  <data key="d0">4</data>
+</node>
+<node id="share">
+  <data key="d0">5</data>
+</node>
+<node id="indorace">
+  <data key="d0">2</data>
+</node>
+<node id="instamillion">
+  <data key="d0">2</data>
+</node>
+<node id="kerala">
+  <data key="d0">7</data>
+</node>
+<node id="msdhoniuntoldstory">
+  <data key="d0">2</data>
+</node>
+<node id="rohit">
+  <data key="d0">2</data>
+</node>
+<node id="score">
+  <data key="d0">2</data>
+</node>
+<node id="starsports">
+  <data key="d0">2</data>
+</node>
+<node id="tamilanda">
+  <data key="d0">4</data>
+</node>
+<node id="tamilbgm">
+  <data key="d0">2</data>
+</node>
+<node id="tamiljoke">
+  <data key="d0">2</data>
+</node>
+<node id="tamilkavithai">
+  <data key="d0">2</data>
+</node>
+<node id="tamilmeme">
+  <data key="d0">2</data>
+</node>
+<node id="tamilmemes1">
+  <data key="d0">3</data>
+</node>
+<node id="tamilstory">
+  <data key="d0">2</data>
+</node>
+<node id="yellowarmy">
+  <data key="d0">6</data>
+</node>
+<node id="iplmemes">
+  <data key="d0">4</data>
+</node>
+<node id="mifans">
+  <data key="d0">3</data>
+</node>
+<node id="mumbaifan">
+  <data key="d0">2</data>
+</node>
+<node id="mumbaiindian">
+  <data key="d0">2</data>
+</node>
+<node id="jaspritbumrah">
+  <data key="d0">7</data>
+</node>
+<node id="mahi7781">
+  <data key="d0">2</data>
+</node>
+<node id="mahimahi">
+  <data key="d0">4</data>
+</node>
+<node id="memesdaily">
+  <data key="d0">6</data>
+</node>
+<node id="msdhonitheuntoldstory">
+  <data key="d0">2</data>
+</node>
+<node id="msdianforever">
+  <data key="d0">2</data>
+</node>
+<node id="sakshidhoni">
+  <data key="d0">2</data>
+</node>
+<node id="whistelpodu">
+  <data key="d0">2</data>
+</node>
+<node id="yeallove">
+  <data key="d0">2</data>
+</node>
+<node id="viralvideo">
+  <data key="d0">2</data>
+</node>
+<node id="rajasthanroyals">
+  <data key="d0">6</data>
+</node>
+<edge source="2020" target="cricket">
+  <data key="d1">7</data>
+</edge>
+<edge source="cricket" target="bcci">
+  <data key="d1">43</data>
+</edge>
+<edge source="cricket" target="bhfyp">
+  <data key="d1">31</data>
+</edge>
+<edge source="cricket" target="chennai">
+  <data key="d1">19</data>
+</edge>
+<edge source="cricket" target="chennaisuperkings">
+  <data key="d1">49</data>
+</edge>
+<edge source="cricket" target="cricket">
+  <data key="d1">20</data>
+</edge>
+<edge source="cricket" target="cricketer">
+  <data key="d1">26</data>
+</edge>
+<edge source="cricket" target="cricketfans">
+  <data key="d1">40</data>
+</edge>
+<edge source="cricket" target="cricketfever">
+  <data key="d1">11</data>
+</edge>
+<edge source="cricket" target="cricketlife">
+  <data key="d1">11</data>
+</edge>
+<edge source="cricket" target="cricketlover">
+  <data key="d1">10</data>
+</edge>
+<edge source="cricket" target="cricketlovers">
+  <data key="d1">16</data>
+</edge>
+<edge source="cricket" target="cricketmerijaan">
+  <data key="d1">30</data>
+</edge>
+<edge source="cricket" target="crickets">
+  <data key="d1">13</data>
+</edge>
+<edge source="cricket" target="cricketupdates">
+  <data key="d1">10</data>
+</edge>
+<edge source="cricket" target="cricketwireless">
+  <data key="d1">6</data>
+</edge>
+<edge source="cricket" target="csk">
+  <data key="d1">112</data>
+</edge>
+<edge source="cricket" target="cskfans">
+  <data key="d1">22</data>
+</edge>
+<edge source="cricket" target="cskreturns">
+  <data key="d1">9</data>
+</edge>
+<edge source="cricket" target="cskvsrcb">
+  <data key="d1">6</data>
+</edge>
+<edge source="cricket" target="delhi">
+  <data key="d1">6</data>
+</edge>
+<edge source="cricket" target="dhoni">
+  <data key="d1">63</data>
+</edge>
+<edge source="cricket" target="dhonism">
+  <data key="d1">16</data>
+</edge>
+<edge source="cricket" target="dream">
+  <data key="d1">24</data>
+</edge>
+<edge source="cricket" target="fun">
+  <data key="d1">10</data>
+</edge>
+<edge source="cricket" target="hardikpandya">
+  <data key="d1">32</data>
+</edge>
+<edge source="cricket" target="icc">
+  <data key="d1">44</data>
+</edge>
+<edge source="cricket" target="india">
+  <data key="d1">52</data>
+</edge>
+<edge source="cricket" target="indian">
+  <data key="d1">6</data>
+</edge>
+<edge source="cricket" target="indiancricket">
+  <data key="d1">52</data>
+</edge>
+<edge source="cricket" target="indiancricketteam">
+  <data key="d1">48</data>
+</edge>
+<edge source="cricket" target="insta">
+  <data key="d1">8</data>
+</edge>
+<edge source="cricket" target="instadaily">
+  <data key="d1">10</data>
+</edge>
+<edge source="cricket" target="instagood">
+  <data key="d1">9</data>
+</edge>
+<edge source="cricket" target="instagram">
+  <data key="d1">11</data>
+</edge>
+<edge source="cricket" target="instalike">
+  <data key="d1">6</data>
+</edge>
+<edge source="cricket" target="instapic">
+  <data key="d1">8</data>
+</edge>
+<edge source="cricket" target="ipl">
+  <data key="d1">111</data>
+</edge>
+<edge source="cricket" target="ipl2020">
+  <data key="d1">26</data>
+</edge>
+<edge source="cricket" target="kkr">
+  <data key="d1">16</data>
+</edge>
+<edge source="cricket" target="klrahul">
+  <data key="d1">27</data>
+</edge>
+<edge source="cricket" target="lol">
+  <data key="d1">7</data>
+</edge>
+<edge source="cricket" target="love">
+  <data key="d1">45</data>
+</edge>
+<edge source="cricket" target="mahendrasinghdhoni">
+  <data key="d1">7</data>
+</edge>
+<edge source="cricket" target="mahi">
+  <data key="d1">37</data>
+</edge>
+<edge source="cricket" target="match">
+  <data key="d1">10</data>
+</edge>
+<edge source="cricket" target="meme">
+  <data key="d1">11</data>
+</edge>
+<edge source="cricket" target="mi">
+  <data key="d1">38</data>
+</edge>
+<edge source="cricket" target="msd">
+  <data key="d1">41</data>
+</edge>
+<edge source="cricket" target="msdhoni">
+  <data key="d1">67</data>
+</edge>
+<edge source="cricket" target="msdians">
+  <data key="d1">18</data>
+</edge>
+<edge source="cricket" target="mumbai">
+  <data key="d1">7</data>
+</edge>
+<edge source="cricket" target="mumbaiindians">
+  <data key="d1">63</data>
+</edge>
+<edge source="cricket" target="mumbaiindiansfan">
+  <data key="d1">12</data>
+</edge>
+<edge source="cricket" target="photography">
+  <data key="d1">6</data>
+</edge>
+<edge source="cricket" target="photoshoot">
+  <data key="d1">6</data>
+</edge>
+<edge source="cricket" target="rcb">
+  <data key="d1">65</data>
+</edge>
+<edge source="cricket" target="rohitsharma">
+  <data key="d1">63</data>
+</edge>
+<edge source="cricket" target="rr">
+  <data key="d1">10</data>
+</edge>
+<edge source="cricket" target="sachintendulkar">
+  <data key="d1">43</data>
+</edge>
+<edge source="cricket" target="sports">
+  <data key="d1">8</data>
+</edge>
+<edge source="cricket" target="srh">
+  <data key="d1">12</data>
+</edge>
+<edge source="cricket" target="sureshraina">
+  <data key="d1">15</data>
+</edge>
+<edge source="cricket" target="teamindia">
+  <data key="d1">40</data>
+</edge>
+<edge source="cricket" target="thala">
+  <data key="d1">19</data>
+</edge>
+<edge source="cricket" target="virat">
+  <data key="d1">27</data>
+</edge>
+<edge source="cricket" target="viratkohli">
+  <data key="d1">70</data>
+</edge>
+<edge source="cricket" target="whistlepodu">
+  <data key="d1">17</data>
+</edge>
+<edge source="cricket" target="worldcup">
+  <data key="d1">23</data>
+</edge>
+<edge source="abdeallien" target="csk">
+  <data key="d1">6</data>
+</edge>
+<edge source="csk" target="abdevilliers">
+  <data key="d1">6</data>
+</edge>
+<edge source="csk" target="ambatirayudu">
+  <data key="d1">6</data>
+</edge>
+<edge source="csk" target="amitshah">
+  <data key="d1">7</data>
+</edge>
+<edge source="csk" target="bangalore">
+  <data key="d1">12</data>
+</edge>
+<edge source="csk" target="bbvsiplipl">
+  <data key="d1">6</data>
+</edge>
+<edge source="csk" target="bcci">
+  <data key="d1">42</data>
+</edge>
+<edge source="csk" target="bhakt">
+  <data key="d1">7</data>
+</edge>
+<edge source="csk" target="bhfyp">
+  <data key="d1">31</data>
+</edge>
+<edge source="csk" target="chennai">
+  <data key="d1">39</data>
+</edge>
+<edge source="csk" target="chennaifoodie">
+  <data key="d1">12</data>
+</edge>
+<edge source="csk" target="chennaisuperkings">
+  <data key="d1">71</data>
+</edge>
+<edge source="csk" target="chinnathala">
+  <data key="d1">18</data>
+</edge>
+<edge source="csk" target="cricketer">
+  <data key="d1">28</data>
+</edge>
+<edge source="csk" target="cricketfans">
+  <data key="d1">32</data>
+</edge>
+<edge source="csk" target="cricketlife">
+  <data key="d1">17</data>
+</edge>
+<edge source="csk" target="cricketlove">
+  <data key="d1">8</data>
+</edge>
+<edge source="csk" target="cricketlover">
+  <data key="d1">17</data>
+</edge>
+<edge source="csk" target="cricketlovers">
+  <data key="d1">26</data>
+</edge>
+<edge source="csk" target="cricketmerijaan">
+  <data key="d1">27</data>
+</edge>
+<edge source="csk" target="crickets">
+  <data key="d1">11</data>
+</edge>
+<edge source="csk" target="cricketwireless">
+  <data key="d1">12</data>
+</edge>
+<edge source="csk" target="csk">
+  <data key="d1">48</data>
+</edge>
+<edge source="csk" target="cskfan">
+  <data key="d1">12</data>
+</edge>
+<edge source="csk" target="cskfans">
+  <data key="d1">53</data>
+</edge>
+<edge source="csk" target="cskforever">
+  <data key="d1">18</data>
+</edge>
+<edge source="csk" target="cskreturns">
+  <data key="d1">35</data>
+</edge>
+<edge source="csk" target="cskvdc">
+  <data key="d1">6</data>
+</edge>
+<edge source="csk" target="cskvmi">
+  <data key="d1">10</data>
+</edge>
+<edge source="csk" target="cskvsmi">
+  <data key="d1">39</data>
+</edge>
+<edge source="csk" target="cskvsrcb">
+  <data key="d1">12</data>
+</edge>
+<edge source="csk" target="cskwin">
+  <data key="d1">6</data>
+</edge>
+<edge source="csk" target="davidwarner">
+  <data key="d1">8</data>
+</edge>
+<edge source="csk" target="dc">
+  <data key="d1">25</data>
+</edge>
+<edge source="csk" target="delhi">
+  <data key="d1">8</data>
+</edge>
+<edge source="csk" target="delhicapitals">
+  <data key="d1">7</data>
+</edge>
+<edge source="csk" target="dhoni">
+  <data key="d1">103</data>
+</edge>
+<edge source="csk" target="dhoni7">
+  <data key="d1">10</data>
+</edge>
+<edge source="csk" target="dhonism">
+  <data key="d1">16</data>
+</edge>
+<edge source="csk" target="dineshkarthik">
+  <data key="d1">6</data>
+</edge>
+<edge source="csk" target="djbravo">
+  <data key="d1">6</data>
+</edge>
+<edge source="csk" target="dream">
+  <data key="d1">26</data>
+</edge>
+<edge source="csk" target="dream11">
+  <data key="d1">9</data>
+</edge>
+<edge source="csk" target="dream11ipl">
+  <data key="d1">25</data>
+</edge>
+<edge source="csk" target="dream11ipl2020">
+  <data key="d1">8</data>
+</edge>
+<edge source="csk" target="dubai">
+  <data key="d1">7</data>
+</edge>
+<edge source="csk" target="fafduplessis">
+  <data key="d1">6</data>
+</edge>
+<edge source="csk" target="friends">
+  <data key="d1">6</data>
+</edge>
+<edge source="csk" target="friendship">
+  <data key="d1">6</data>
+</edge>
+<edge source="csk" target="fun">
+  <data key="d1">10</data>
+</edge>
+<edge source="csk" target="funnymemes">
+  <data key="d1">12</data>
+</edge>
+<edge source="csk" target="hardikpandya">
+  <data key="d1">28</data>
+</edge>
+<edge source="csk" target="hyderabad">
+  <data key="d1">7</data>
+</edge>
+<edge source="csk" target="icc">
+  <data key="d1">46</data>
+</edge>
+<edge source="csk" target="india">
+  <data key="d1">57</data>
+</edge>
+<edge source="csk" target="indiancricket">
+  <data key="d1">54</data>
+</edge>
+<edge source="csk" target="indiancricketteam">
+  <data key="d1">50</data>
+</edge>
+<edge source="csk" target="indianpremierleague">
+  <data key="d1">15</data>
+</edge>
+<edge source="csk" target="insta">
+  <data key="d1">8</data>
+</edge>
+<edge source="csk" target="instadaily">
+  <data key="d1">10</data>
+</edge>
+<edge source="csk" target="instagood">
+  <data key="d1">13</data>
+</edge>
+<edge source="csk" target="instagram">
+  <data key="d1">20</data>
+</edge>
+<edge source="csk" target="instapic">
+  <data key="d1">6</data>
+</edge>
+<edge source="csk" target="ipl">
+  <data key="d1">192</data>
+</edge>
+<edge source="csk" target="ipl2020">
+  <data key="d1">87</data>
+</edge>
+<edge source="csk" target="ipl2020memesupdates">
+  <data key="d1">6</data>
+</edge>
+<edge source="csk" target="ipl2020updates">
+  <data key="d1">6</data>
+</edge>
+<edge source="csk" target="ipl2020viralkohlialien">
+  <data key="d1">6</data>
+</edge>
+<edge source="csk" target="iplcontest">
+  <data key="d1">6</data>
+</edge>
+<edge source="csk" target="iplcricket">
+  <data key="d1">6</data>
+</edge>
+<edge source="csk" target="iplcrickettrolls">
+  <data key="d1">6</data>
+</edge>
+<edge source="csk" target="iplfan">
+  <data key="d1">6</data>
+</edge>
+<edge source="csk" target="iplnews">
+  <data key="d1">7</data>
+</edge>
+<edge source="csk" target="iplseason">
+  <data key="d1">12</data>
+</edge>
+<edge source="csk" target="iplt20">
+  <data key="d1">17</data>
+</edge>
+<edge source="csk" target="ipltreatment">
+  <data key="d1">21</data>
+</edge>
+<edge source="csk" target="ipluae">
+  <data key="d1">6</data>
+</edge>
+<edge source="csk" target="jntuh">
+  <data key="d1">6</data>
+</edge>
+<edge source="csk" target="kanewilliamson">
+  <data key="d1">6</data>
+</edge>
+<edge source="csk" target="kangana">
+  <data key="d1">7</data>
+</edge>
+<edge source="csk" target="kingsxipunjab">
+  <data key="d1">8</data>
+</edge>
+<edge source="csk" target="kkr">
+  <data key="d1">45</data>
+</edge>
+<edge source="csk" target="klrahul">
+  <data key="d1">33</data>
+</edge>
+<edge source="csk" target="kohli">
+  <data key="d1">10</data>
+</edge>
+<edge source="csk" target="kxip">
+  <data key="d1">20</data>
+</edge>
+<edge source="csk" target="life">
+  <data key="d1">6</data>
+</edge>
+<edge source="csk" target="likeforlikes">
+  <data key="d1">6</data>
+</edge>
+<edge source="csk" target="love">
+  <data key="d1">50</data>
+</edge>
+<edge source="csk" target="madras">
+  <data key="d1">12</data>
+</edge>
+<edge source="csk" target="mahendrasinghdhoni">
+  <data key="d1">6</data>
+</edge>
+<edge source="csk" target="mahi">
+  <data key="d1">54</data>
+</edge>
+<edge source="csk" target="manishpandey">
+  <data key="d1">6</data>
+</edge>
+<edge source="csk" target="match">
+  <data key="d1">8</data>
+</edge>
+<edge source="csk" target="meme">
+  <data key="d1">16</data>
+</edge>
+<edge source="csk" target="memes">
+  <data key="d1">12</data>
+</edge>
+<edge source="csk" target="mi">
+  <data key="d1">90</data>
+</edge>
+<edge source="csk" target="midefeat">
+  <data key="d1">6</data>
+</edge>
+<edge source="csk" target="mirzapur2">
+  <data key="d1">7</data>
+</edge>
+<edge source="csk" target="mivscsk">
+  <data key="d1">15</data>
+</edge>
+<edge source="csk" target="modi">
+  <data key="d1">7</data>
+</edge>
+<edge source="csk" target="msd">
+  <data key="d1">51</data>
+</edge>
+<edge source="csk" target="msdhoni">
+  <data key="d1">92</data>
+</edge>
+<edge source="csk" target="msdians">
+  <data key="d1">18</data>
+</edge>
+<edge source="csk" target="mumbai">
+  <data key="d1">19</data>
+</edge>
+<edge source="csk" target="mumbaiindians">
+  <data key="d1">95</data>
+</edge>
+<edge source="csk" target="mumbaiindiansfan">
+  <data key="d1">20</data>
+</edge>
+<edge source="csk" target="mumbaiinstagrammers">
+  <data key="d1">6</data>
+</edge>
+<edge source="csk" target="photo">
+  <data key="d1">8</data>
+</edge>
+<edge source="csk" target="photography">
+  <data key="d1">10</data>
+</edge>
+<edge source="csk" target="photooftheday">
+  <data key="d1">6</data>
+</edge>
+<edge source="csk" target="photoshoot">
+  <data key="d1">7</data>
+</edge>
+<edge source="csk" target="polard">
+  <data key="d1">6</data>
+</edge>
+<edge source="csk" target="raina">
+  <data key="d1">15</data>
+</edge>
+<edge source="csk" target="rbc">
+  <data key="d1">6</data>
+</edge>
+<edge source="csk" target="rcb">
+  <data key="d1">114</data>
+</edge>
+<edge source="csk" target="rohitsharma">
+  <data key="d1">72</data>
+</edge>
+<edge source="csk" target="rohitsharma45">
+  <data key="d1">7</data>
+</edge>
+<edge source="csk" target="rr">
+  <data key="d1">29</data>
+</edge>
+<edge source="csk" target="sachintendulkar">
+  <data key="d1">43</data>
+</edge>
+<edge source="csk" target="shreyasiyer">
+  <data key="d1">6</data>
+</edge>
+<edge source="csk" target="sports">
+  <data key="d1">7</data>
+</edge>
+<edge source="csk" target="srh">
+  <data key="d1">38</data>
+</edge>
+<edge source="csk" target="stevesmith">
+  <data key="d1">10</data>
+</edge>
+<edge source="csk" target="sureshraina">
+  <data key="d1">38</data>
+</edge>
+<edge source="csk" target="tamil">
+  <data key="d1">6</data>
+</edge>
+<edge source="csk" target="teamindia">
+  <data key="d1">42</data>
+</edge>
+<edge source="csk" target="telugucomedy">
+  <data key="d1">7</data>
+</edge>
+<edge source="csk" target="telugumemes">
+  <data key="d1">12</data>
+</edge>
+<edge source="csk" target="telugutrolls">
+  <data key="d1">9</data>
+</edge>
+<edge source="csk" target="thala">
+  <data key="d1">29</data>
+</edge>
+<edge source="csk" target="thaladhoni">
+  <data key="d1">24</data>
+</edge>
+<edge source="csk" target="tmkoc">
+  <data key="d1">7</data>
+</edge>
+<edge source="csk" target="up">
+  <data key="d1">7</data>
+</edge>
+<edge source="csk" target="virat">
+  <data key="d1">25</data>
+</edge>
+<edge source="csk" target="viratkohli">
+  <data key="d1">86</data>
+</edge>
+<edge source="csk" target="whistlepodu">
+  <data key="d1">34</data>
+</edge>
+<edge source="csk" target="worldcup">
+  <data key="d1">23</data>
+</edge>
+<edge source="csk" target="yellove">
+  <data key="d1">27</data>
+</edge>
+<edge source="csk" target="yelloveagain">
+  <data key="d1">19</data>
+</edge>
+<edge source="csk" target="yellowe">
+  <data key="d1">12</data>
+</edge>
+<edge source="csk" target="yogi">
+  <data key="d1">7</data>
+</edge>
+<edge source="abdevilliers" target="cskvsmi">
+  <data key="d1">6</data>
+</edge>
+<edge source="abdevilliers" target="davidwarner">
+  <data key="d1">6</data>
+</edge>
+<edge source="abdevilliers" target="dc">
+  <data key="d1">6</data>
+</edge>
+<edge source="abdevilliers" target="dineshkarthik">
+  <data key="d1">6</data>
+</edge>
+<edge source="abdevilliers" target="djbravo">
+  <data key="d1">6</data>
+</edge>
+<edge source="abdevilliers" target="dream11ipl">
+  <data key="d1">6</data>
+</edge>
+<edge source="abdevilliers" target="dream11ipl2020">
+  <data key="d1">6</data>
+</edge>
+<edge source="abdevilliers" target="ipl">
+  <data key="d1">9</data>
+</edge>
+<edge source="abdevilliers" target="ipl2020">
+  <data key="d1">10</data>
+</edge>
+<edge source="abdevilliers" target="ipl2020memesupdates">
+  <data key="d1">6</data>
+</edge>
+<edge source="abdevilliers" target="kanewilliamson">
+  <data key="d1">6</data>
+</edge>
+<edge source="abdevilliers" target="kkr">
+  <data key="d1">6</data>
+</edge>
+<edge source="abdevilliers" target="klrahul">
+  <data key="d1">6</data>
+</edge>
+<edge source="abdevilliers" target="kxip">
+  <data key="d1">6</data>
+</edge>
+<edge source="abdevilliers" target="manishpandey">
+  <data key="d1">6</data>
+</edge>
+<edge source="abdevilliers" target="mi">
+  <data key="d1">6</data>
+</edge>
+<edge source="abdevilliers" target="mivscsk">
+  <data key="d1">7</data>
+</edge>
+<edge source="abdevilliers" target="msdhoni">
+  <data key="d1">8</data>
+</edge>
+<edge source="abdevilliers" target="polard">
+  <data key="d1">6</data>
+</edge>
+<edge source="abdevilliers" target="rcb">
+  <data key="d1">10</data>
+</edge>
+<edge source="abdevilliers" target="rohitsharma45">
+  <data key="d1">6</data>
+</edge>
+<edge source="abdevilliers" target="rr">
+  <data key="d1">6</data>
+</edge>
+<edge source="abdevilliers" target="shreyasiyer">
+  <data key="d1">6</data>
+</edge>
+<edge source="abdevilliers" target="srh">
+  <data key="d1">6</data>
+</edge>
+<edge source="abdevilliers" target="stevesmith">
+  <data key="d1">6</data>
+</edge>
+<edge source="abdevilliers" target="telugumemes">
+  <data key="d1">6</data>
+</edge>
+<edge source="abdevilliers" target="telugutrolls">
+  <data key="d1">6</data>
+</edge>
+<edge source="abdevilliers" target="viratkohli">
+  <data key="d1">13</data>
+</edge>
+<edge source="cskvsmi" target="bangalore">
+  <data key="d1">6</data>
+</edge>
+<edge source="cskvsmi" target="chennai">
+  <data key="d1">8</data>
+</edge>
+<edge source="cskvsmi" target="chennaifoodie">
+  <data key="d1">6</data>
+</edge>
+<edge source="cskvsmi" target="chennaisuperkings">
+  <data key="d1">11</data>
+</edge>
+<edge source="cskvsmi" target="chinnathala">
+  <data key="d1">6</data>
+</edge>
+<edge source="cskvsmi" target="cskfan">
+  <data key="d1">6</data>
+</edge>
+<edge source="cskvsmi" target="cskfans">
+  <data key="d1">8</data>
+</edge>
+<edge source="cskvsmi" target="cskforever">
+  <data key="d1">6</data>
+</edge>
+<edge source="cskvsmi" target="cskreturns">
+  <data key="d1">10</data>
+</edge>
+<edge source="cskvsmi" target="davidwarner">
+  <data key="d1">6</data>
+</edge>
+<edge source="cskvsmi" target="dc">
+  <data key="d1">7</data>
+</edge>
+<edge source="cskvsmi" target="dhoni">
+  <data key="d1">8</data>
+</edge>
+<edge source="cskvsmi" target="dineshkarthik">
+  <data key="d1">6</data>
+</edge>
+<edge source="cskvsmi" target="djbravo">
+  <data key="d1">6</data>
+</edge>
+<edge source="cskvsmi" target="dream11ipl">
+  <data key="d1">7</data>
+</edge>
+<edge source="cskvsmi" target="dream11ipl2020">
+  <data key="d1">6</data>
+</edge>
+<edge source="cskvsmi" target="indianpremierleague">
+  <data key="d1">7</data>
+</edge>
+<edge source="cskvsmi" target="ipl">
+  <data key="d1">25</data>
+</edge>
+<edge source="cskvsmi" target="ipl2020">
+  <data key="d1">20</data>
+</edge>
+<edge source="cskvsmi" target="ipl2020memesupdates">
+  <data key="d1">6</data>
+</edge>
+<edge source="cskvsmi" target="iplseason">
+  <data key="d1">6</data>
+</edge>
+<edge source="cskvsmi" target="iplt20">
+  <data key="d1">6</data>
+</edge>
+<edge source="cskvsmi" target="ipltreatment">
+  <data key="d1">6</data>
+</edge>
+<edge source="cskvsmi" target="kanewilliamson">
+  <data key="d1">6</data>
+</edge>
+<edge source="cskvsmi" target="kkr">
+  <data key="d1">9</data>
+</edge>
+<edge source="cskvsmi" target="klrahul">
+  <data key="d1">6</data>
+</edge>
+<edge source="cskvsmi" target="kxip">
+  <data key="d1">6</data>
+</edge>
+<edge source="cskvsmi" target="madras">
+  <data key="d1">6</data>
+</edge>
+<edge source="cskvsmi" target="mahi">
+  <data key="d1">7</data>
+</edge>
+<edge source="cskvsmi" target="manishpandey">
+  <data key="d1">6</data>
+</edge>
+<edge source="cskvsmi" target="memes">
+  <data key="d1">6</data>
+</edge>
+<edge source="cskvsmi" target="mi">
+  <data key="d1">10</data>
+</edge>
+<edge source="cskvsmi" target="mivscsk">
+  <data key="d1">8</data>
+</edge>
+<edge source="cskvsmi" target="msdhoni">
+  <data key="d1">7</data>
+</edge>
+<edge source="cskvsmi" target="mumbai">
+  <data key="d1">6</data>
+</edge>
+<edge source="cskvsmi" target="mumbaiindians">
+  <data key="d1">8</data>
+</edge>
+<edge source="cskvsmi" target="polard">
+  <data key="d1">6</data>
+</edge>
+<edge source="cskvsmi" target="raina">
+  <data key="d1">6</data>
+</edge>
+<edge source="cskvsmi" target="rcb">
+  <data key="d1">16</data>
+</edge>
+<edge source="cskvsmi" target="rohitsharma45">
+  <data key="d1">6</data>
+</edge>
+<edge source="cskvsmi" target="rr">
+  <data key="d1">8</data>
+</edge>
+<edge source="cskvsmi" target="shreyasiyer">
+  <data key="d1">6</data>
+</edge>
+<edge source="cskvsmi" target="srh">
+  <data key="d1">8</data>
+</edge>
+<edge source="cskvsmi" target="stevesmith">
+  <data key="d1">6</data>
+</edge>
+<edge source="cskvsmi" target="sureshraina">
+  <data key="d1">8</data>
+</edge>
+<edge source="cskvsmi" target="telugumemes">
+  <data key="d1">7</data>
+</edge>
+<edge source="cskvsmi" target="telugutrolls">
+  <data key="d1">6</data>
+</edge>
+<edge source="cskvsmi" target="thaladhoni">
+  <data key="d1">6</data>
+</edge>
+<edge source="cskvsmi" target="viratkohli">
+  <data key="d1">7</data>
+</edge>
+<edge source="cskvsmi" target="whistlepodu">
+  <data key="d1">6</data>
+</edge>
+<edge source="cskvsmi" target="yellove">
+  <data key="d1">6</data>
+</edge>
+<edge source="cskvsmi" target="yelloveagain">
+  <data key="d1">6</data>
+</edge>
+<edge source="cskvsmi" target="yellowe">
+  <data key="d1">6</data>
+</edge>
+<edge source="davidwarner" target="dc">
+  <data key="d1">6</data>
+</edge>
+<edge source="davidwarner" target="dineshkarthik">
+  <data key="d1">6</data>
+</edge>
+<edge source="davidwarner" target="djbravo">
+  <data key="d1">6</data>
+</edge>
+<edge source="davidwarner" target="dream11ipl">
+  <data key="d1">6</data>
+</edge>
+<edge source="davidwarner" target="dream11ipl2020">
+  <data key="d1">6</data>
+</edge>
+<edge source="davidwarner" target="ipl">
+  <data key="d1">6</data>
+</edge>
+<edge source="davidwarner" target="ipl2020">
+  <data key="d1">6</data>
+</edge>
+<edge source="davidwarner" target="ipl2020memesupdates">
+  <data key="d1">6</data>
+</edge>
+<edge source="davidwarner" target="kanewilliamson">
+  <data key="d1">6</data>
+</edge>
+<edge source="davidwarner" target="kkr">
+  <data key="d1">6</data>
+</edge>
+<edge source="davidwarner" target="klrahul">
+  <data key="d1">6</data>
+</edge>
+<edge source="davidwarner" target="kxip">
+  <data key="d1">6</data>
+</edge>
+<edge source="davidwarner" target="manishpandey">
+  <data key="d1">6</data>
+</edge>
+<edge source="davidwarner" target="mi">
+  <data key="d1">6</data>
+</edge>
+<edge source="davidwarner" target="mivscsk">
+  <data key="d1">6</data>
+</edge>
+<edge source="davidwarner" target="msdhoni">
+  <data key="d1">6</data>
+</edge>
+<edge source="davidwarner" target="polard">
+  <data key="d1">6</data>
+</edge>
+<edge source="davidwarner" target="rcb">
+  <data key="d1">6</data>
+</edge>
+<edge source="davidwarner" target="rohitsharma45">
+  <data key="d1">6</data>
+</edge>
+<edge source="davidwarner" target="rr">
+  <data key="d1">6</data>
+</edge>
+<edge source="davidwarner" target="shreyasiyer">
+  <data key="d1">6</data>
+</edge>
+<edge source="davidwarner" target="srh">
+  <data key="d1">7</data>
+</edge>
+<edge source="davidwarner" target="stevesmith">
+  <data key="d1">6</data>
+</edge>
+<edge source="davidwarner" target="telugumemes">
+  <data key="d1">6</data>
+</edge>
+<edge source="davidwarner" target="telugutrolls">
+  <data key="d1">6</data>
+</edge>
+<edge source="davidwarner" target="viratkohli">
+  <data key="d1">6</data>
+</edge>
+<edge source="dc" target="amitshah">
+  <data key="d1">7</data>
+</edge>
+<edge source="dc" target="bhakt">
+  <data key="d1">7</data>
+</edge>
+<edge source="dc" target="dhoni">
+  <data key="d1">7</data>
+</edge>
+<edge source="dc" target="dineshkarthik">
+  <data key="d1">6</data>
+</edge>
+<edge source="dc" target="djbravo">
+  <data key="d1">6</data>
+</edge>
+<edge source="dc" target="dream11ipl">
+  <data key="d1">10</data>
+</edge>
+<edge source="dc" target="dream11ipl2020">
+  <data key="d1">6</data>
+</edge>
+<edge source="dc" target="instagram">
+  <data key="d1">7</data>
+</edge>
+<edge source="dc" target="ipl">
+  <data key="d1">26</data>
+</edge>
+<edge source="dc" target="ipl2020">
+  <data key="d1">13</data>
+</edge>
+<edge source="dc" target="ipl2020memesupdates">
+  <data key="d1">6</data>
+</edge>
+<edge source="dc" target="kanewilliamson">
+  <data key="d1">6</data>
+</edge>
+<edge source="dc" target="kangana">
+  <data key="d1">7</data>
+</edge>
+<edge source="dc" target="kkr">
+  <data key="d1">16</data>
+</edge>
+<edge source="dc" target="klrahul">
+  <data key="d1">7</data>
+</edge>
+<edge source="dc" target="kohli">
+  <data key="d1">7</data>
+</edge>
+<edge source="dc" target="kxip">
+  <data key="d1">14</data>
+</edge>
+<edge source="dc" target="manishpandey">
+  <data key="d1">6</data>
+</edge>
+<edge source="dc" target="mi">
+  <data key="d1">18</data>
+</edge>
+<edge source="dc" target="mirzapur2">
+  <data key="d1">7</data>
+</edge>
+<edge source="dc" target="mivscsk">
+  <data key="d1">9</data>
+</edge>
+<edge source="dc" target="modi">
+  <data key="d1">7</data>
+</edge>
+<edge source="dc" target="msdhoni">
+  <data key="d1">10</data>
+</edge>
+<edge source="dc" target="mumbaiindians">
+  <data key="d1">9</data>
+</edge>
+<edge source="dc" target="polard">
+  <data key="d1">6</data>
+</edge>
+<edge source="dc" target="rcb">
+  <data key="d1">23</data>
+</edge>
+<edge source="dc" target="rohitsharma45">
+  <data key="d1">6</data>
+</edge>
+<edge source="dc" target="rr">
+  <data key="d1">18</data>
+</edge>
+<edge source="dc" target="shreyasiyer">
+  <data key="d1">6</data>
+</edge>
+<edge source="dc" target="srh">
+  <data key="d1">17</data>
+</edge>
+<edge source="dc" target="stevesmith">
+  <data key="d1">6</data>
+</edge>
+<edge source="dc" target="telugumemes">
+  <data key="d1">6</data>
+</edge>
+<edge source="dc" target="telugutrolls">
+  <data key="d1">6</data>
+</edge>
+<edge source="dc" target="up">
+  <data key="d1">7</data>
+</edge>
+<edge source="dc" target="viratkohli">
+  <data key="d1">10</data>
+</edge>
+<edge source="dc" target="yogi">
+  <data key="d1">7</data>
+</edge>
+<edge source="dineshkarthik" target="djbravo">
+  <data key="d1">6</data>
+</edge>
+<edge source="dineshkarthik" target="dream11ipl">
+  <data key="d1">6</data>
+</edge>
+<edge source="dineshkarthik" target="dream11ipl2020">
+  <data key="d1">6</data>
+</edge>
+<edge source="dineshkarthik" target="ipl">
+  <data key="d1">6</data>
+</edge>
+<edge source="dineshkarthik" target="ipl2020">
+  <data key="d1">6</data>
+</edge>
+<edge source="dineshkarthik" target="ipl2020memesupdates">
+  <data key="d1">6</data>
+</edge>
+<edge source="dineshkarthik" target="kanewilliamson">
+  <data key="d1">6</data>
+</edge>
+<edge source="dineshkarthik" target="kkr">
+  <data key="d1">6</data>
+</edge>
+<edge source="dineshkarthik" target="klrahul">
+  <data key="d1">6</data>
+</edge>
+<edge source="dineshkarthik" target="kxip">
+  <data key="d1">6</data>
+</edge>
+<edge source="dineshkarthik" target="manishpandey">
+  <data key="d1">6</data>
+</edge>
+<edge source="dineshkarthik" target="mi">
+  <data key="d1">6</data>
+</edge>
+<edge source="dineshkarthik" target="mivscsk">
+  <data key="d1">6</data>
+</edge>
+<edge source="dineshkarthik" target="msdhoni">
+  <data key="d1">6</data>
+</edge>
+<edge source="dineshkarthik" target="polard">
+  <data key="d1">6</data>
+</edge>
+<edge source="dineshkarthik" target="rcb">
+  <data key="d1">6</data>
+</edge>
+<edge source="dineshkarthik" target="rohitsharma45">
+  <data key="d1">6</data>
+</edge>
+<edge source="dineshkarthik" target="rr">
+  <data key="d1">6</data>
+</edge>
+<edge source="dineshkarthik" target="shreyasiyer">
+  <data key="d1">6</data>
+</edge>
+<edge source="dineshkarthik" target="srh">
+  <data key="d1">6</data>
+</edge>
+<edge source="dineshkarthik" target="stevesmith">
+  <data key="d1">6</data>
+</edge>
+<edge source="dineshkarthik" target="telugumemes">
+  <data key="d1">6</data>
+</edge>
+<edge source="dineshkarthik" target="telugutrolls">
+  <data key="d1">6</data>
+</edge>
+<edge source="dineshkarthik" target="viratkohli">
+  <data key="d1">6</data>
+</edge>
+<edge source="djbravo" target="dream11ipl">
+  <data key="d1">6</data>
+</edge>
+<edge source="djbravo" target="dream11ipl2020">
+  <data key="d1">6</data>
+</edge>
+<edge source="djbravo" target="ipl">
+  <data key="d1">6</data>
+</edge>
+<edge source="djbravo" target="ipl2020">
+  <data key="d1">6</data>
+</edge>
+<edge source="djbravo" target="ipl2020memesupdates">
+  <data key="d1">6</data>
+</edge>
+<edge source="djbravo" target="kanewilliamson">
+  <data key="d1">6</data>
+</edge>
+<edge source="djbravo" target="kkr">
+  <data key="d1">6</data>
+</edge>
+<edge source="djbravo" target="klrahul">
+  <data key="d1">6</data>
+</edge>
+<edge source="djbravo" target="kxip">
+  <data key="d1">6</data>
+</edge>
+<edge source="djbravo" target="manishpandey">
+  <data key="d1">6</data>
+</edge>
+<edge source="djbravo" target="mi">
+  <data key="d1">6</data>
+</edge>
+<edge source="djbravo" target="mivscsk">
+  <data key="d1">6</data>
+</edge>
+<edge source="djbravo" target="msdhoni">
+  <data key="d1">6</data>
+</edge>
+<edge source="djbravo" target="polard">
+  <data key="d1">6</data>
+</edge>
+<edge source="djbravo" target="rcb">
+  <data key="d1">6</data>
+</edge>
+<edge source="djbravo" target="rohitsharma45">
+  <data key="d1">6</data>
+</edge>
+<edge source="djbravo" target="rr">
+  <data key="d1">6</data>
+</edge>
+<edge source="djbravo" target="shreyasiyer">
+  <data key="d1">6</data>
+</edge>
+<edge source="djbravo" target="srh">
+  <data key="d1">6</data>
+</edge>
+<edge source="djbravo" target="stevesmith">
+  <data key="d1">6</data>
+</edge>
+<edge source="djbravo" target="telugumemes">
+  <data key="d1">6</data>
+</edge>
+<edge source="djbravo" target="telugutrolls">
+  <data key="d1">6</data>
+</edge>
+<edge source="djbravo" target="viratkohli">
+  <data key="d1">6</data>
+</edge>
+<edge source="dream11ipl" target="chennaisuperkings">
+  <data key="d1">7</data>
+</edge>
+<edge source="dream11ipl" target="dream11">
+  <data key="d1">6</data>
+</edge>
+<edge source="dream11ipl" target="dream11ipl2020">
+  <data key="d1">8</data>
+</edge>
+<edge source="dream11ipl" target="ipl">
+  <data key="d1">24</data>
+</edge>
+<edge source="dream11ipl" target="ipl2020">
+  <data key="d1">21</data>
+</edge>
+<edge source="dream11ipl" target="ipl2020memesupdates">
+  <data key="d1">6</data>
+</edge>
+<edge source="dream11ipl" target="kanewilliamson">
+  <data key="d1">6</data>
+</edge>
+<edge source="dream11ipl" target="kkr">
+  <data key="d1">10</data>
+</edge>
+<edge source="dream11ipl" target="klrahul">
+  <data key="d1">8</data>
+</edge>
+<edge source="dream11ipl" target="kxip">
+  <data key="d1">10</data>
+</edge>
+<edge source="dream11ipl" target="manishpandey">
+  <data key="d1">6</data>
+</edge>
+<edge source="dream11ipl" target="mi">
+  <data key="d1">16</data>
+</edge>
+<edge source="dream11ipl" target="mivscsk">
+  <data key="d1">15</data>
+</edge>
+<edge source="dream11ipl" target="msdhoni">
+  <data key="d1">14</data>
+</edge>
+<edge source="dream11ipl" target="mumbaiindians">
+  <data key="d1">7</data>
+</edge>
+<edge source="dream11ipl" target="polard">
+  <data key="d1">6</data>
+</edge>
+<edge source="dream11ipl" target="rcb">
+  <data key="d1">19</data>
+</edge>
+<edge source="dream11ipl" target="rohitsharma45">
+  <data key="d1">7</data>
+</edge>
+<edge source="dream11ipl" target="rr">
+  <data key="d1">11</data>
+</edge>
+<edge source="dream11ipl" target="shreyasiyer">
+  <data key="d1">6</data>
+</edge>
+<edge source="dream11ipl" target="srh">
+  <data key="d1">14</data>
+</edge>
+<edge source="dream11ipl" target="stevesmith">
+  <data key="d1">6</data>
+</edge>
+<edge source="dream11ipl" target="telugumemes">
+  <data key="d1">6</data>
+</edge>
+<edge source="dream11ipl" target="telugutrolls">
+  <data key="d1">6</data>
+</edge>
+<edge source="dream11ipl" target="viratkohli">
+  <data key="d1">13</data>
+</edge>
+<edge source="dream11ipl2020" target="ipl">
+  <data key="d1">8</data>
+</edge>
+<edge source="dream11ipl2020" target="ipl2020">
+  <data key="d1">6</data>
+</edge>
+<edge source="dream11ipl2020" target="ipl2020memesupdates">
+  <data key="d1">6</data>
+</edge>
+<edge source="dream11ipl2020" target="kanewilliamson">
+  <data key="d1">6</data>
+</edge>
+<edge source="dream11ipl2020" target="kkr">
+  <data key="d1">6</data>
+</edge>
+<edge source="dream11ipl2020" target="klrahul">
+  <data key="d1">6</data>
+</edge>
+<edge source="dream11ipl2020" target="kxip">
+  <data key="d1">6</data>
+</edge>
+<edge source="dream11ipl2020" target="manishpandey">
+  <data key="d1">6</data>
+</edge>
+<edge source="dream11ipl2020" target="mi">
+  <data key="d1">8</data>
+</edge>
+<edge source="dream11ipl2020" target="mivscsk">
+  <data key="d1">8</data>
+</edge>
+<edge source="dream11ipl2020" target="msdhoni">
+  <data key="d1">6</data>
+</edge>
+<edge source="dream11ipl2020" target="polard">
+  <data key="d1">6</data>
+</edge>
+<edge source="dream11ipl2020" target="rcb">
+  <data key="d1">6</data>
+</edge>
+<edge source="dream11ipl2020" target="rohitsharma45">
+  <data key="d1">6</data>
+</edge>
+<edge source="dream11ipl2020" target="rr">
+  <data key="d1">6</data>
+</edge>
+<edge source="dream11ipl2020" target="shreyasiyer">
+  <data key="d1">6</data>
+</edge>
+<edge source="dream11ipl2020" target="srh">
+  <data key="d1">6</data>
+</edge>
+<edge source="dream11ipl2020" target="stevesmith">
+  <data key="d1">6</data>
+</edge>
+<edge source="dream11ipl2020" target="telugumemes">
+  <data key="d1">6</data>
+</edge>
+<edge source="dream11ipl2020" target="telugutrolls">
+  <data key="d1">6</data>
+</edge>
+<edge source="dream11ipl2020" target="viratkohli">
+  <data key="d1">6</data>
+</edge>
+<edge source="ipl" target="amitshah">
+  <data key="d1">7</data>
+</edge>
+<edge source="ipl" target="bangalore">
+  <data key="d1">6</data>
+</edge>
+<edge source="ipl" target="bcci">
+  <data key="d1">40</data>
+</edge>
+<edge source="ipl" target="bhakt">
+  <data key="d1">7</data>
+</edge>
+<edge source="ipl" target="bhfyp">
+  <data key="d1">31</data>
+</edge>
+<edge source="ipl" target="chennai">
+  <data key="d1">34</data>
+</edge>
+<edge source="ipl" target="chennaifoodie">
+  <data key="d1">6</data>
+</edge>
+<edge source="ipl" target="chennaisuperkings">
+  <data key="d1">65</data>
+</edge>
+<edge source="ipl" target="chinnathala">
+  <data key="d1">6</data>
+</edge>
+<edge source="ipl" target="comment4comment">
+  <data key="d1">6</data>
+</edge>
+<edge source="ipl" target="cricketer">
+  <data key="d1">26</data>
+</edge>
+<edge source="ipl" target="cricketfans">
+  <data key="d1">39</data>
+</edge>
+<edge source="ipl" target="cricketfever">
+  <data key="d1">7</data>
+</edge>
+<edge source="ipl" target="cricketlover">
+  <data key="d1">9</data>
+</edge>
+<edge source="ipl" target="cricketlovers">
+  <data key="d1">11</data>
+</edge>
+<edge source="ipl" target="cricketmerijaan">
+  <data key="d1">28</data>
+</edge>
+<edge source="ipl" target="crickets">
+  <data key="d1">6</data>
+</edge>
+<edge source="ipl" target="cricketupdates">
+  <data key="d1">6</data>
+</edge>
+<edge source="ipl" target="cskfan">
+  <data key="d1">6</data>
+</edge>
+<edge source="ipl" target="cskfans">
+  <data key="d1">31</data>
+</edge>
+<edge source="ipl" target="cskforever">
+  <data key="d1">6</data>
+</edge>
+<edge source="ipl" target="cskreturns">
+  <data key="d1">14</data>
+</edge>
+<edge source="ipl" target="delhi">
+  <data key="d1">8</data>
+</edge>
+<edge source="ipl" target="delhicapitals">
+  <data key="d1">6</data>
+</edge>
+<edge source="ipl" target="dhoni">
+  <data key="d1">92</data>
+</edge>
+<edge source="ipl" target="dhoni7">
+  <data key="d1">6</data>
+</edge>
+<edge source="ipl" target="dhonism">
+  <data key="d1">18</data>
+</edge>
+<edge source="ipl" target="dream">
+  <data key="d1">24</data>
+</edge>
+<edge source="ipl" target="dream11">
+  <data key="d1">10</data>
+</edge>
+<edge source="ipl" target="dubai">
+  <data key="d1">6</data>
+</edge>
+<edge source="ipl" target="friends">
+  <data key="d1">6</data>
+</edge>
+<edge source="ipl" target="fun">
+  <data key="d1">12</data>
+</edge>
+<edge source="ipl" target="funny">
+  <data key="d1">6</data>
+</edge>
+<edge source="ipl" target="funnymemes">
+  <data key="d1">8</data>
+</edge>
+<edge source="ipl" target="hardikpandya">
+  <data key="d1">33</data>
+</edge>
+<edge source="ipl" target="icc">
+  <data key="d1">53</data>
+</edge>
+<edge source="ipl" target="india">
+  <data key="d1">66</data>
+</edge>
+<edge source="ipl" target="indiancricket">
+  <data key="d1">65</data>
+</edge>
+<edge source="ipl" target="indiancricketteam">
+  <data key="d1">55</data>
+</edge>
+<edge source="ipl" target="indianpremierleague">
+  <data key="d1">8</data>
+</edge>
+<edge source="ipl" target="insta">
+  <data key="d1">16</data>
+</edge>
+<edge source="ipl" target="instadaily">
+  <data key="d1">30</data>
+</edge>
+<edge source="ipl" target="instagood">
+  <data key="d1">28</data>
+</edge>
+<edge source="ipl" target="instagram">
+  <data key="d1">32</data>
+</edge>
+<edge source="ipl" target="instalike">
+  <data key="d1">13</data>
+</edge>
+<edge source="ipl" target="instamillion">
+  <data key="d1">6</data>
+</edge>
+<edge source="ipl" target="instaphoto">
+  <data key="d1">13</data>
+</edge>
+<edge source="ipl" target="instapic">
+  <data key="d1">14</data>
+</edge>
+<edge source="ipl" target="ipl">
+  <data key="d1">20</data>
+</edge>
+<edge source="ipl" target="ipl2020">
+  <data key="d1">76</data>
+</edge>
+<edge source="ipl" target="ipl2020memesupdates">
+  <data key="d1">6</data>
+</edge>
+<edge source="ipl" target="ipl2020updates">
+  <data key="d1">6</data>
+</edge>
+<edge source="ipl" target="iplnews">
+  <data key="d1">6</data>
+</edge>
+<edge source="ipl" target="iplseason">
+  <data key="d1">6</data>
+</edge>
+<edge source="ipl" target="iplt20">
+  <data key="d1">12</data>
+</edge>
+<edge source="ipl" target="ipltreatment">
+  <data key="d1">13</data>
+</edge>
+<edge source="ipl" target="ipluae">
+  <data key="d1">6</data>
+</edge>
+<edge source="ipl" target="kanewilliamson">
+  <data key="d1">6</data>
+</edge>
+<edge source="ipl" target="kangana">
+  <data key="d1">7</data>
+</edge>
+<edge source="ipl" target="kerala">
+  <data key="d1">7</data>
+</edge>
+<edge source="ipl" target="kkr">
+  <data key="d1">40</data>
+</edge>
+<edge source="ipl" target="klrahul">
+  <data key="d1">33</data>
+</edge>
+<edge source="ipl" target="kohli">
+  <data key="d1">10</data>
+</edge>
+<edge source="ipl" target="kxip">
+  <data key="d1">17</data>
+</edge>
+<edge source="ipl" target="life">
+  <data key="d1">8</data>
+</edge>
+<edge source="ipl" target="likeforlikes">
+  <data key="d1">11</data>
+</edge>
+<edge source="ipl" target="lol">
+  <data key="d1">6</data>
+</edge>
+<edge source="ipl" target="love">
+  <data key="d1">57</data>
+</edge>
+<edge source="ipl" target="loveyourself">
+  <data key="d1">8</data>
+</edge>
+<edge source="ipl" target="madras">
+  <data key="d1">6</data>
+</edge>
+<edge source="ipl" target="mahendrasinghdhoni">
+  <data key="d1">9</data>
+</edge>
+<edge source="ipl" target="mahi">
+  <data key="d1">45</data>
+</edge>
+<edge source="ipl" target="manishpandey">
+  <data key="d1">6</data>
+</edge>
+<edge source="ipl" target="match">
+  <data key="d1">17</data>
+</edge>
+<edge source="ipl" target="meme">
+  <data key="d1">15</data>
+</edge>
+<edge source="ipl" target="memes">
+  <data key="d1">18</data>
+</edge>
+<edge source="ipl" target="mi">
+  <data key="d1">81</data>
+</edge>
+<edge source="ipl" target="mirzapur2">
+  <data key="d1">7</data>
+</edge>
+<edge source="ipl" target="mivscsk">
+  <data key="d1">15</data>
+</edge>
+<edge source="ipl" target="modi">
+  <data key="d1">8</data>
+</edge>
+<edge source="ipl" target="msd">
+  <data key="d1">50</data>
+</edge>
+<edge source="ipl" target="msdhoni">
+  <data key="d1">97</data>
+</edge>
+<edge source="ipl" target="msdhoniuntoldstory">
+  <data key="d1">6</data>
+</edge>
+<edge source="ipl" target="msdians">
+  <data key="d1">20</data>
+</edge>
+<edge source="ipl" target="mumbai">
+  <data key="d1">15</data>
+</edge>
+<edge source="ipl" target="mumbaiindians">
+  <data key="d1">79</data>
+</edge>
+<edge source="ipl" target="mumbaiindiansfan">
+  <data key="d1">8</data>
+</edge>
+<edge source="ipl" target="photo">
+  <data key="d1">16</data>
+</edge>
+<edge source="ipl" target="photographer">
+  <data key="d1">12</data>
+</edge>
+<edge source="ipl" target="photography">
+  <data key="d1">19</data>
+</edge>
+<edge source="ipl" target="photooftheday">
+  <data key="d1">14</data>
+</edge>
+<edge source="ipl" target="photoshoot">
+  <data key="d1">14</data>
+</edge>
+<edge source="ipl" target="polard">
+  <data key="d1">6</data>
+</edge>
+<edge source="ipl" target="raina">
+  <data key="d1">9</data>
+</edge>
+<edge source="ipl" target="rcb">
+  <data key="d1">115</data>
+</edge>
+<edge source="ipl" target="rohit">
+  <data key="d1">6</data>
+</edge>
+<edge source="ipl" target="rohitsharma">
+  <data key="d1">79</data>
+</edge>
+<edge source="ipl" target="rohitsharma45">
+  <data key="d1">8</data>
+</edge>
+<edge source="ipl" target="rr">
+  <data key="d1">27</data>
+</edge>
+<edge source="ipl" target="sachintendulkar">
+  <data key="d1">39</data>
+</edge>
+<edge source="ipl" target="score">
+  <data key="d1">6</data>
+</edge>
+<edge source="ipl" target="share">
+  <data key="d1">8</data>
+</edge>
+<edge source="ipl" target="shreyasiyer">
+  <data key="d1">6</data>
+</edge>
+<edge source="ipl" target="sports">
+  <data key="d1">10</data>
+</edge>
+<edge source="ipl" target="srh">
+  <data key="d1">31</data>
+</edge>
+<edge source="ipl" target="starsports">
+  <data key="d1">6</data>
+</edge>
+<edge source="ipl" target="stevesmith">
+  <data key="d1">6</data>
+</edge>
+<edge source="ipl" target="sureshraina">
+  <data key="d1">26</data>
+</edge>
+<edge source="ipl" target="tamil">
+  <data key="d1">6</data>
+</edge>
+<edge source="ipl" target="tamilanda">
+  <data key="d1">8</data>
+</edge>
+<edge source="ipl" target="tamilbgm">
+  <data key="d1">6</data>
+</edge>
+<edge source="ipl" target="tamilindustry">
+  <data key="d1">12</data>
+</edge>
+<edge source="ipl" target="tamiljoke">
+  <data key="d1">6</data>
+</edge>
+<edge source="ipl" target="tamilkavithai">
+  <data key="d1">6</data>
+</edge>
+<edge source="ipl" target="tamilmeme">
+  <data key="d1">6</data>
+</edge>
+<edge source="ipl" target="tamilmemes1">
+  <data key="d1">6</data>
+</edge>
+<edge source="ipl" target="tamilstory">
+  <data key="d1">6</data>
+</edge>
+<edge source="ipl" target="teamindia">
+  <data key="d1">42</data>
+</edge>
+<edge source="ipl" target="telugucomedy">
+  <data key="d1">7</data>
+</edge>
+<edge source="ipl" target="telugumemes">
+  <data key="d1">11</data>
+</edge>
+<edge source="ipl" target="telugutrolls">
+  <data key="d1">9</data>
+</edge>
+<edge source="ipl" target="thala">
+  <data key="d1">26</data>
+</edge>
+<edge source="ipl" target="thaladhoni">
+  <data key="d1">12</data>
+</edge>
+<edge source="ipl" target="tmkoc">
+  <data key="d1">7</data>
+</edge>
+<edge source="ipl" target="up">
+  <data key="d1">7</data>
+</edge>
+<edge source="ipl" target="virat">
+  <data key="d1">31</data>
+</edge>
+<edge source="ipl" target="viratkohli">
+  <data key="d1">95</data>
+</edge>
+<edge source="ipl" target="whistlepodu">
+  <data key="d1">26</data>
+</edge>
+<edge source="ipl" target="worldcup">
+  <data key="d1">23</data>
+</edge>
+<edge source="ipl" target="yellove">
+  <data key="d1">14</data>
+</edge>
+<edge source="ipl" target="yelloveagain">
+  <data key="d1">7</data>
+</edge>
+<edge source="ipl" target="yellowarmy">
+  <data key="d1">6</data>
+</edge>
+<edge source="ipl" target="yellowe">
+  <data key="d1">6</data>
+</edge>
+<edge source="ipl" target="yogi">
+  <data key="d1">7</data>
+</edge>
+<edge source="ipl2020" target="bangalore">
+  <data key="d1">6</data>
+</edge>
+<edge source="ipl2020" target="bcci">
+  <data key="d1">6</data>
+</edge>
+<edge source="ipl2020" target="chennai">
+  <data key="d1">15</data>
+</edge>
+<edge source="ipl2020" target="chennaifoodie">
+  <data key="d1">6</data>
+</edge>
+<edge source="ipl2020" target="chennaisuperkings">
+  <data key="d1">25</data>
+</edge>
+<edge source="ipl2020" target="chinnathala">
+  <data key="d1">6</data>
+</edge>
+<edge source="ipl2020" target="cricketer">
+  <data key="d1">6</data>
+</edge>
+<edge source="ipl2020" target="cskfan">
+  <data key="d1">6</data>
+</edge>
+<edge source="ipl2020" target="cskfans">
+  <data key="d1">10</data>
+</edge>
+<edge source="ipl2020" target="cskforever">
+  <data key="d1">6</data>
+</edge>
+<edge source="ipl2020" target="cskreturns">
+  <data key="d1">9</data>
+</edge>
+<edge source="ipl2020" target="dhoni">
+  <data key="d1">24</data>
+</edge>
+<edge source="ipl2020" target="hardikpandya">
+  <data key="d1">6</data>
+</edge>
+<edge source="ipl2020" target="indiancricket">
+  <data key="d1">7</data>
+</edge>
+<edge source="ipl2020" target="indianpremierleague">
+  <data key="d1">8</data>
+</edge>
+<edge source="ipl2020" target="ipl2020memesupdates">
+  <data key="d1">6</data>
+</edge>
+<edge source="ipl2020" target="ipl2020updates">
+  <data key="d1">6</data>
+</edge>
+<edge source="ipl2020" target="iplfan">
+  <data key="d1">8</data>
+</edge>
+<edge source="ipl2020" target="iplmemes">
+  <data key="d1">7</data>
+</edge>
+<edge source="ipl2020" target="iplnews">
+  <data key="d1">7</data>
+</edge>
+<edge source="ipl2020" target="iplseason">
+  <data key="d1">6</data>
+</edge>
+<edge source="ipl2020" target="iplt20">
+  <data key="d1">9</data>
+</edge>
+<edge source="ipl2020" target="ipltreatment">
+  <data key="d1">8</data>
+</edge>
+<edge source="ipl2020" target="ipluae">
+  <data key="d1">6</data>
+</edge>
+<edge source="ipl2020" target="kanewilliamson">
+  <data key="d1">6</data>
+</edge>
+<edge source="ipl2020" target="kingsxipunjab">
+  <data key="d1">6</data>
+</edge>
+<edge source="ipl2020" target="kkr">
+  <data key="d1">27</data>
+</edge>
+<edge source="ipl2020" target="klrahul">
+  <data key="d1">9</data>
+</edge>
+<edge source="ipl2020" target="kxip">
+  <data key="d1">18</data>
+</edge>
+<edge source="ipl2020" target="madras">
+  <data key="d1">6</data>
+</edge>
+<edge source="ipl2020" target="mahi">
+  <data key="d1">10</data>
+</edge>
+<edge source="ipl2020" target="manishpandey">
+  <data key="d1">6</data>
+</edge>
+<edge source="ipl2020" target="meme">
+  <data key="d1">10</data>
+</edge>
+<edge source="ipl2020" target="memes">
+  <data key="d1">8</data>
+</edge>
+<edge source="ipl2020" target="mi">
+  <data key="d1">45</data>
+</edge>
+<edge source="ipl2020" target="mifans">
+  <data key="d1">6</data>
+</edge>
+<edge source="ipl2020" target="mivscsk">
+  <data key="d1">14</data>
+</edge>
+<edge source="ipl2020" target="msd">
+  <data key="d1">13</data>
+</edge>
+<edge source="ipl2020" target="msdhoni">
+  <data key="d1">30</data>
+</edge>
+<edge source="ipl2020" target="mumbai">
+  <data key="d1">7</data>
+</edge>
+<edge source="ipl2020" target="mumbaifan">
+  <data key="d1">6</data>
+</edge>
+<edge source="ipl2020" target="mumbaiindian">
+  <data key="d1">6</data>
+</edge>
+<edge source="ipl2020" target="mumbaiindians">
+  <data key="d1">24</data>
+</edge>
+<edge source="ipl2020" target="mumbaiindiansfan">
+  <data key="d1">6</data>
+</edge>
+<edge source="ipl2020" target="polard">
+  <data key="d1">6</data>
+</edge>
+<edge source="ipl2020" target="raina">
+  <data key="d1">6</data>
+</edge>
+<edge source="ipl2020" target="rcb">
+  <data key="d1">52</data>
+</edge>
+<edge source="ipl2020" target="rohitsharma">
+  <data key="d1">23</data>
+</edge>
+<edge source="ipl2020" target="rohitsharma45">
+  <data key="d1">6</data>
+</edge>
+<edge source="ipl2020" target="rr">
+  <data key="d1">21</data>
+</edge>
+<edge source="ipl2020" target="shreyasiyer">
+  <data key="d1">7</data>
+</edge>
+<edge source="ipl2020" target="srh">
+  <data key="d1">27</data>
+</edge>
+<edge source="ipl2020" target="stevesmith">
+  <data key="d1">6</data>
+</edge>
+<edge source="ipl2020" target="sureshraina">
+  <data key="d1">10</data>
+</edge>
+<edge source="ipl2020" target="teamindia">
+  <data key="d1">6</data>
+</edge>
+<edge source="ipl2020" target="telugumemes">
+  <data key="d1">8</data>
+</edge>
+<edge source="ipl2020" target="telugutrolls">
+  <data key="d1">6</data>
+</edge>
+<edge source="ipl2020" target="thaladhoni">
+  <data key="d1">9</data>
+</edge>
+<edge source="ipl2020" target="viratkohli">
+  <data key="d1">25</data>
+</edge>
+<edge source="ipl2020" target="whistlepodu">
+  <data key="d1">12</data>
+</edge>
+<edge source="ipl2020" target="yellove">
+  <data key="d1">13</data>
+</edge>
+<edge source="ipl2020" target="yelloveagain">
+  <data key="d1">7</data>
+</edge>
+<edge source="ipl2020" target="yellowe">
+  <data key="d1">6</data>
+</edge>
+<edge source="ipl2020memesupdates" target="kanewilliamson">
+  <data key="d1">6</data>
+</edge>
+<edge source="ipl2020memesupdates" target="kkr">
+  <data key="d1">6</data>
+</edge>
+<edge source="ipl2020memesupdates" target="klrahul">
+  <data key="d1">6</data>
+</edge>
+<edge source="ipl2020memesupdates" target="kxip">
+  <data key="d1">6</data>
+</edge>
+<edge source="ipl2020memesupdates" target="manishpandey">
+  <data key="d1">6</data>
+</edge>
+<edge source="ipl2020memesupdates" target="mi">
+  <data key="d1">6</data>
+</edge>
+<edge source="ipl2020memesupdates" target="mivscsk">
+  <data key="d1">6</data>
+</edge>
+<edge source="ipl2020memesupdates" target="msdhoni">
+  <data key="d1">6</data>
+</edge>
+<edge source="ipl2020memesupdates" target="polard">
+  <data key="d1">6</data>
+</edge>
+<edge source="ipl2020memesupdates" target="rcb">
+  <data key="d1">6</data>
+</edge>
+<edge source="ipl2020memesupdates" target="rohitsharma45">
+  <data key="d1">6</data>
+</edge>
+<edge source="ipl2020memesupdates" target="rr">
+  <data key="d1">6</data>
+</edge>
+<edge source="ipl2020memesupdates" target="shreyasiyer">
+  <data key="d1">6</data>
+</edge>
+<edge source="ipl2020memesupdates" target="srh">
+  <data key="d1">6</data>
+</edge>
+<edge source="ipl2020memesupdates" target="stevesmith">
+  <data key="d1">6</data>
+</edge>
+<edge source="ipl2020memesupdates" target="telugumemes">
+  <data key="d1">6</data>
+</edge>
+<edge source="ipl2020memesupdates" target="telugutrolls">
+  <data key="d1">6</data>
+</edge>
+<edge source="ipl2020memesupdates" target="viratkohli">
+  <data key="d1">6</data>
+</edge>
+<edge source="kanewilliamson" target="kkr">
+  <data key="d1">6</data>
+</edge>
+<edge source="kanewilliamson" target="klrahul">
+  <data key="d1">6</data>
+</edge>
+<edge source="kanewilliamson" target="kxip">
+  <data key="d1">6</data>
+</edge>
+<edge source="kanewilliamson" target="manishpandey">
+  <data key="d1">6</data>
+</edge>
+<edge source="kanewilliamson" target="mi">
+  <data key="d1">6</data>
+</edge>
+<edge source="kanewilliamson" target="mivscsk">
+  <data key="d1">6</data>
+</edge>
+<edge source="kanewilliamson" target="msdhoni">
+  <data key="d1">6</data>
+</edge>
+<edge source="kanewilliamson" target="polard">
+  <data key="d1">6</data>
+</edge>
+<edge source="kanewilliamson" target="rcb">
+  <data key="d1">6</data>
+</edge>
+<edge source="kanewilliamson" target="rohitsharma45">
+  <data key="d1">6</data>
+</edge>
+<edge source="kanewilliamson" target="rr">
+  <data key="d1">6</data>
+</edge>
+<edge source="kanewilliamson" target="shreyasiyer">
+  <data key="d1">6</data>
+</edge>
+<edge source="kanewilliamson" target="srh">
+  <data key="d1">6</data>
+</edge>
+<edge source="kanewilliamson" target="stevesmith">
+  <data key="d1">6</data>
+</edge>
+<edge source="kanewilliamson" target="telugumemes">
+  <data key="d1">6</data>
+</edge>
+<edge source="kanewilliamson" target="telugutrolls">
+  <data key="d1">6</data>
+</edge>
+<edge source="kanewilliamson" target="viratkohli">
+  <data key="d1">6</data>
+</edge>
+<edge source="kkr" target="bcci">
+  <data key="d1">10</data>
+</edge>
+<edge source="kkr" target="bhfyp">
+  <data key="d1">10</data>
+</edge>
+<edge source="kkr" target="chennai">
+  <data key="d1">12</data>
+</edge>
+<edge source="kkr" target="chennaisuperkings">
+  <data key="d1">13</data>
+</edge>
+<edge source="kkr" target="cskfans">
+  <data key="d1">11</data>
+</edge>
+<edge source="kkr" target="dhoni">
+  <data key="d1">13</data>
+</edge>
+<edge source="kkr" target="dhonism">
+  <data key="d1">10</data>
+</edge>
+<edge source="kkr" target="icc">
+  <data key="d1">10</data>
+</edge>
+<edge source="kkr" target="india">
+  <data key="d1">10</data>
+</edge>
+<edge source="kkr" target="indiancricket">
+  <data key="d1">11</data>
+</edge>
+<edge source="kkr" target="indiancricketteam">
+  <data key="d1">10</data>
+</edge>
+<edge source="kkr" target="ipl2020updates">
+  <data key="d1">6</data>
+</edge>
+<edge source="kkr" target="iplnews">
+  <data key="d1">6</data>
+</edge>
+<edge source="kkr" target="ipluae">
+  <data key="d1">6</data>
+</edge>
+<edge source="kkr" target="klrahul">
+  <data key="d1">12</data>
+</edge>
+<edge source="kkr" target="kxip">
+  <data key="d1">19</data>
+</edge>
+<edge source="kkr" target="love">
+  <data key="d1">10</data>
+</edge>
+<edge source="kkr" target="mahi">
+  <data key="d1">10</data>
+</edge>
+<edge source="kkr" target="manishpandey">
+  <data key="d1">6</data>
+</edge>
+<edge source="kkr" target="mi">
+  <data key="d1">38</data>
+</edge>
+<edge source="kkr" target="mivscsk">
+  <data key="d1">9</data>
+</edge>
+<edge source="kkr" target="msd">
+  <data key="d1">13</data>
+</edge>
+<edge source="kkr" target="msdhoni">
+  <data key="d1">22</data>
+</edge>
+<edge source="kkr" target="msdians">
+  <data key="d1">10</data>
+</edge>
+<edge source="kkr" target="mumbaiindians">
+  <data key="d1">20</data>
+</edge>
+<edge source="kkr" target="polard">
+  <data key="d1">6</data>
+</edge>
+<edge source="kkr" target="rcb">
+  <data key="d1">41</data>
+</edge>
+<edge source="kkr" target="rohitsharma">
+  <data key="d1">17</data>
+</edge>
+<edge source="kkr" target="rohitsharma45">
+  <data key="d1">6</data>
+</edge>
+<edge source="kkr" target="rr">
+  <data key="d1">20</data>
+</edge>
+<edge source="kkr" target="sachintendulkar">
+  <data key="d1">7</data>
+</edge>
+<edge source="kkr" target="shreyasiyer">
+  <data key="d1">6</data>
+</edge>
+<edge source="kkr" target="srh">
+  <data key="d1">19</data>
+</edge>
+<edge source="kkr" target="stevesmith">
+  <data key="d1">6</data>
+</edge>
+<edge source="kkr" target="sureshraina">
+  <data key="d1">12</data>
+</edge>
+<edge source="kkr" target="teamindia">
+  <data key="d1">10</data>
+</edge>
+<edge source="kkr" target="telugumemes">
+  <data key="d1">7</data>
+</edge>
+<edge source="kkr" target="telugutrolls">
+  <data key="d1">6</data>
+</edge>
+<edge source="kkr" target="thala">
+  <data key="d1">10</data>
+</edge>
+<edge source="kkr" target="tmkoc">
+  <data key="d1">6</data>
+</edge>
+<edge source="kkr" target="viratkohli">
+  <data key="d1">22</data>
+</edge>
+<edge source="kkr" target="whistlepodu">
+  <data key="d1">11</data>
+</edge>
+<edge source="klrahul" target="bcci">
+  <data key="d1">21</data>
+</edge>
+<edge source="klrahul" target="bhfyp">
+  <data key="d1">19</data>
+</edge>
+<edge source="klrahul" target="chennaisuperkings">
+  <data key="d1">23</data>
+</edge>
+<edge source="klrahul" target="cricketer">
+  <data key="d1">21</data>
+</edge>
+<edge source="klrahul" target="cricketfans">
+  <data key="d1">21</data>
+</edge>
+<edge source="klrahul" target="cricketmerijaan">
+  <data key="d1">21</data>
+</edge>
+<edge source="klrahul" target="dhoni">
+  <data key="d1">22</data>
+</edge>
+<edge source="klrahul" target="dream">
+  <data key="d1">20</data>
+</edge>
+<edge source="klrahul" target="hardikpandya">
+  <data key="d1">25</data>
+</edge>
+<edge source="klrahul" target="icc">
+  <data key="d1">20</data>
+</edge>
+<edge source="klrahul" target="india">
+  <data key="d1">20</data>
+</edge>
+<edge source="klrahul" target="indiancricket">
+  <data key="d1">21</data>
+</edge>
+<edge source="klrahul" target="indiancricketteam">
+  <data key="d1">20</data>
+</edge>
+<edge source="klrahul" target="kxip">
+  <data key="d1">8</data>
+</edge>
+<edge source="klrahul" target="love">
+  <data key="d1">20</data>
+</edge>
+<edge source="klrahul" target="mahi">
+  <data key="d1">20</data>
+</edge>
+<edge source="klrahul" target="manishpandey">
+  <data key="d1">6</data>
+</edge>
+<edge source="klrahul" target="mi">
+  <data key="d1">8</data>
+</edge>
+<edge source="klrahul" target="mivscsk">
+  <data key="d1">6</data>
+</edge>
+<edge source="klrahul" target="msd">
+  <data key="d1">20</data>
+</edge>
+<edge source="klrahul" target="msdhoni">
+  <data key="d1">34</data>
+</edge>
+<edge source="klrahul" target="mumbaiindians">
+  <data key="d1">28</data>
+</edge>
+<edge source="klrahul" target="polard">
+  <data key="d1">6</data>
+</edge>
+<edge source="klrahul" target="rcb">
+  <data key="d1">32</data>
+</edge>
+<edge source="klrahul" target="rohitsharma">
+  <data key="d1">27</data>
+</edge>
+<edge source="klrahul" target="rohitsharma45">
+  <data key="d1">6</data>
+</edge>
+<edge source="klrahul" target="rr">
+  <data key="d1">7</data>
+</edge>
+<edge source="klrahul" target="sachintendulkar">
+  <data key="d1">20</data>
+</edge>
+<edge source="klrahul" target="shreyasiyer">
+  <data key="d1">6</data>
+</edge>
+<edge source="klrahul" target="srh">
+  <data key="d1">7</data>
+</edge>
+<edge source="klrahul" target="stevesmith">
+  <data key="d1">6</data>
+</edge>
+<edge source="klrahul" target="teamindia">
+  <data key="d1">20</data>
+</edge>
+<edge source="klrahul" target="telugumemes">
+  <data key="d1">6</data>
+</edge>
+<edge source="klrahul" target="telugutrolls">
+  <data key="d1">6</data>
+</edge>
+<edge source="klrahul" target="virat">
+  <data key="d1">20</data>
+</edge>
+<edge source="klrahul" target="viratkohli">
+  <data key="d1">33</data>
+</edge>
+<edge source="klrahul" target="worldcup">
+  <data key="d1">20</data>
+</edge>
+<edge source="kxip" target="manishpandey">
+  <data key="d1">6</data>
+</edge>
+<edge source="kxip" target="mi">
+  <data key="d1">17</data>
+</edge>
+<edge source="kxip" target="mivscsk">
+  <data key="d1">9</data>
+</edge>
+<edge source="kxip" target="msdhoni">
+  <data key="d1">8</data>
+</edge>
+<edge source="kxip" target="polard">
+  <data key="d1">6</data>
+</edge>
+<edge source="kxip" target="rcb">
+  <data key="d1">17</data>
+</edge>
+<edge source="kxip" target="rohitsharma45">
+  <data key="d1">6</data>
+</edge>
+<edge source="kxip" target="rr">
+  <data key="d1">18</data>
+</edge>
+<edge source="kxip" target="shreyasiyer">
+  <data key="d1">6</data>
+</edge>
+<edge source="kxip" target="srh">
+  <data key="d1">17</data>
+</edge>
+<edge source="kxip" target="stevesmith">
+  <data key="d1">6</data>
+</edge>
+<edge source="kxip" target="telugumemes">
+  <data key="d1">6</data>
+</edge>
+<edge source="kxip" target="telugutrolls">
+  <data key="d1">6</data>
+</edge>
+<edge source="kxip" target="viratkohli">
+  <data key="d1">10</data>
+</edge>
+<edge source="manishpandey" target="mi">
+  <data key="d1">6</data>
+</edge>
+<edge source="manishpandey" target="mivscsk">
+  <data key="d1">6</data>
+</edge>
+<edge source="manishpandey" target="msdhoni">
+  <data key="d1">6</data>
+</edge>
+<edge source="manishpandey" target="polard">
+  <data key="d1">6</data>
+</edge>
+<edge source="manishpandey" target="rcb">
+  <data key="d1">6</data>
+</edge>
+<edge source="manishpandey" target="rohitsharma45">
+  <data key="d1">6</data>
+</edge>
+<edge source="manishpandey" target="rr">
+  <data key="d1">6</data>
+</edge>
+<edge source="manishpandey" target="shreyasiyer">
+  <data key="d1">6</data>
+</edge>
+<edge source="manishpandey" target="srh">
+  <data key="d1">6</data>
+</edge>
+<edge source="manishpandey" target="stevesmith">
+  <data key="d1">6</data>
+</edge>
+<edge source="manishpandey" target="telugumemes">
+  <data key="d1">6</data>
+</edge>
+<edge source="manishpandey" target="telugutrolls">
+  <data key="d1">6</data>
+</edge>
+<edge source="manishpandey" target="viratkohli">
+  <data key="d1">6</data>
+</edge>
+<edge source="mi" target="bcci">
+  <data key="d1">15</data>
+</edge>
+<edge source="mi" target="bhfyp">
+  <data key="d1">10</data>
+</edge>
+<edge source="mi" target="chennai">
+  <data key="d1">14</data>
+</edge>
+<edge source="mi" target="chennaisuperkings">
+  <data key="d1">18</data>
+</edge>
+<edge source="mi" target="comment4comment">
+  <data key="d1">6</data>
+</edge>
+<edge source="mi" target="cskfans">
+  <data key="d1">10</data>
+</edge>
+<edge source="mi" target="dhoni">
+  <data key="d1">25</data>
+</edge>
+<edge source="mi" target="dhonism">
+  <data key="d1">10</data>
+</edge>
+<edge source="mi" target="dream11">
+  <data key="d1">7</data>
+</edge>
+<edge source="mi" target="fun">
+  <data key="d1">7</data>
+</edge>
+<edge source="mi" target="icc">
+  <data key="d1">15</data>
+</edge>
+<edge source="mi" target="india">
+  <data key="d1">17</data>
+</edge>
+<edge source="mi" target="indiancricket">
+  <data key="d1">17</data>
+</edge>
+<edge source="mi" target="indiancricketteam">
+  <data key="d1">13</data>
+</edge>
+<edge source="mi" target="instagram">
+  <data key="d1">7</data>
+</edge>
+<edge source="mi" target="instamillion">
+  <data key="d1">6</data>
+</edge>
+<edge source="mi" target="ipl2020updates">
+  <data key="d1">6</data>
+</edge>
+<edge source="mi" target="iplnews">
+  <data key="d1">6</data>
+</edge>
+<edge source="mi" target="ipluae">
+  <data key="d1">6</data>
+</edge>
+<edge source="mi" target="likeforlikes">
+  <data key="d1">7</data>
+</edge>
+<edge source="mi" target="love">
+  <data key="d1">12</data>
+</edge>
+<edge source="mi" target="mahi">
+  <data key="d1">10</data>
+</edge>
+<edge source="mi" target="match">
+  <data key="d1">8</data>
+</edge>
+<edge source="mi" target="meme">
+  <data key="d1">7</data>
+</edge>
+<edge source="mi" target="mivscsk">
+  <data key="d1">13</data>
+</edge>
+<edge source="mi" target="msd">
+  <data key="d1">15</data>
+</edge>
+<edge source="mi" target="msdhoni">
+  <data key="d1">31</data>
+</edge>
+<edge source="mi" target="msdhoniuntoldstory">
+  <data key="d1">6</data>
+</edge>
+<edge source="mi" target="msdians">
+  <data key="d1">10</data>
+</edge>
+<edge source="mi" target="mumbaiindians">
+  <data key="d1">24</data>
+</edge>
+<edge source="mi" target="polard">
+  <data key="d1">6</data>
+</edge>
+<edge source="mi" target="rcb">
+  <data key="d1">47</data>
+</edge>
+<edge source="mi" target="rohit">
+  <data key="d1">6</data>
+</edge>
+<edge source="mi" target="rohitsharma">
+  <data key="d1">29</data>
+</edge>
+<edge source="mi" target="rohitsharma45">
+  <data key="d1">6</data>
+</edge>
+<edge source="mi" target="rr">
+  <data key="d1">27</data>
+</edge>
+<edge source="mi" target="sachintendulkar">
+  <data key="d1">16</data>
+</edge>
+<edge source="mi" target="score">
+  <data key="d1">6</data>
+</edge>
+<edge source="mi" target="shreyasiyer">
+  <data key="d1">6</data>
+</edge>
+<edge source="mi" target="srh">
+  <data key="d1">26</data>
+</edge>
+<edge source="mi" target="starsports">
+  <data key="d1">6</data>
+</edge>
+<edge source="mi" target="stevesmith">
+  <data key="d1">10</data>
+</edge>
+<edge source="mi" target="sureshraina">
+  <data key="d1">11</data>
+</edge>
+<edge source="mi" target="tamilanda">
+  <data key="d1">6</data>
+</edge>
+<edge source="mi" target="tamilbgm">
+  <data key="d1">6</data>
+</edge>
+<edge source="mi" target="tamilindustry">
+  <data key="d1">12</data>
+</edge>
+<edge source="mi" target="tamiljoke">
+  <data key="d1">6</data>
+</edge>
+<edge source="mi" target="tamilkavithai">
+  <data key="d1">6</data>
+</edge>
+<edge source="mi" target="tamilmeme">
+  <data key="d1">6</data>
+</edge>
+<edge source="mi" target="tamilmemes1">
+  <data key="d1">6</data>
+</edge>
+<edge source="mi" target="tamilstory">
+  <data key="d1">6</data>
+</edge>
+<edge source="mi" target="teamindia">
+  <data key="d1">12</data>
+</edge>
+<edge source="mi" target="telugumemes">
+  <data key="d1">10</data>
+</edge>
+<edge source="mi" target="telugutrolls">
+  <data key="d1">9</data>
+</edge>
+<edge source="mi" target="thala">
+  <data key="d1">11</data>
+</edge>
+<edge source="mi" target="viratkohli">
+  <data key="d1">28</data>
+</edge>
+<edge source="mi" target="whistlepodu">
+  <data key="d1">11</data>
+</edge>
+<edge source="mivscsk" target="msdhoni">
+  <data key="d1">8</data>
+</edge>
+<edge source="mivscsk" target="polard">
+  <data key="d1">6</data>
+</edge>
+<edge source="mivscsk" target="rcb">
+  <data key="d1">12</data>
+</edge>
+<edge source="mivscsk" target="rohitsharma45">
+  <data key="d1">7</data>
+</edge>
+<edge source="mivscsk" target="rr">
+  <data key="d1">9</data>
+</edge>
+<edge source="mivscsk" target="shreyasiyer">
+  <data key="d1">6</data>
+</edge>
+<edge source="mivscsk" target="srh">
+  <data key="d1">9</data>
+</edge>
+<edge source="mivscsk" target="stevesmith">
+  <data key="d1">6</data>
+</edge>
+<edge source="mivscsk" target="telugumemes">
+  <data key="d1">6</data>
+</edge>
+<edge source="mivscsk" target="telugutrolls">
+  <data key="d1">6</data>
+</edge>
+<edge source="mivscsk" target="viratkohli">
+  <data key="d1">8</data>
+</edge>
+<edge source="msdhoni" target="bcci">
+  <data key="d1">40</data>
+</edge>
+<edge source="msdhoni" target="bhfyp">
+  <data key="d1">31</data>
+</edge>
+<edge source="msdhoni" target="captaincool">
+  <data key="d1">6</data>
+</edge>
+<edge source="msdhoni" target="captaindhoni">
+  <data key="d1">6</data>
+</edge>
+<edge source="msdhoni" target="chennai">
+  <data key="d1">23</data>
+</edge>
+<edge source="msdhoni" target="chennaisuperkings">
+  <data key="d1">54</data>
+</edge>
+<edge source="msdhoni" target="cricketer">
+  <data key="d1">26</data>
+</edge>
+<edge source="msdhoni" target="cricketfans">
+  <data key="d1">31</data>
+</edge>
+<edge source="msdhoni" target="cricketmerijaan">
+  <data key="d1">28</data>
+</edge>
+<edge source="msdhoni" target="cskfans">
+  <data key="d1">22</data>
+</edge>
+<edge source="msdhoni" target="delhi">
+  <data key="d1">6</data>
+</edge>
+<edge source="msdhoni" target="dhoni">
+  <data key="d1">56</data>
+</edge>
+<edge source="msdhoni" target="dhoni7">
+  <data key="d1">11</data>
+</edge>
+<edge source="msdhoni" target="dhoniretires">
+  <data key="d1">6</data>
+</edge>
+<edge source="msdhoni" target="dhonism">
+  <data key="d1">20</data>
+</edge>
+<edge source="msdhoni" target="dream">
+  <data key="d1">24</data>
+</edge>
+<edge source="msdhoni" target="funnymemes">
+  <data key="d1">7</data>
+</edge>
+<edge source="msdhoni" target="hardikpandya">
+  <data key="d1">31</data>
+</edge>
+<edge source="msdhoni" target="icc">
+  <data key="d1">44</data>
+</edge>
+<edge source="msdhoni" target="india">
+  <data key="d1">51</data>
+</edge>
+<edge source="msdhoni" target="indiancricket">
+  <data key="d1">52</data>
+</edge>
+<edge source="msdhoni" target="indiancricketteam">
+  <data key="d1">50</data>
+</edge>
+<edge source="msdhoni" target="instadaily">
+  <data key="d1">9</data>
+</edge>
+<edge source="msdhoni" target="instagood">
+  <data key="d1">10</data>
+</edge>
+<edge source="msdhoni" target="instagram">
+  <data key="d1">11</data>
+</edge>
+<edge source="msdhoni" target="love">
+  <data key="d1">44</data>
+</edge>
+<edge source="msdhoni" target="mahendrasinghdhoni">
+  <data key="d1">11</data>
+</edge>
+<edge source="msdhoni" target="mahi">
+  <data key="d1">45</data>
+</edge>
+<edge source="msdhoni" target="mahi7781">
+  <data key="d1">6</data>
+</edge>
+<edge source="msdhoni" target="match">
+  <data key="d1">6</data>
+</edge>
+<edge source="msdhoni" target="msd">
+  <data key="d1">47</data>
+</edge>
+<edge source="msdhoni" target="msdhoni">
+  <data key="d1">6</data>
+</edge>
+<edge source="msdhoni" target="msdhonitheuntoldstory">
+  <data key="d1">6</data>
+</edge>
+<edge source="msdhoni" target="msdianforever">
+  <data key="d1">6</data>
+</edge>
+<edge source="msdhoni" target="msdians">
+  <data key="d1">24</data>
+</edge>
+<edge source="msdhoni" target="mumbaiindians">
+  <data key="d1">47</data>
+</edge>
+<edge source="msdhoni" target="photo">
+  <data key="d1">6</data>
+</edge>
+<edge source="msdhoni" target="photography">
+  <data key="d1">7</data>
+</edge>
+<edge source="msdhoni" target="photooftheday">
+  <data key="d1">6</data>
+</edge>
+<edge source="msdhoni" target="photoshoot">
+  <data key="d1">6</data>
+</edge>
+<edge source="msdhoni" target="polard">
+  <data key="d1">6</data>
+</edge>
+<edge source="msdhoni" target="rcb">
+  <data key="d1">59</data>
+</edge>
+<edge source="msdhoni" target="rohitsharma">
+  <data key="d1">59</data>
+</edge>
+<edge source="msdhoni" target="rohitsharma45">
+  <data key="d1">8</data>
+</edge>
+<edge source="msdhoni" target="rr">
+  <data key="d1">10</data>
+</edge>
+<edge source="msdhoni" target="sachintendulkar">
+  <data key="d1">39</data>
+</edge>
+<edge source="msdhoni" target="sakshidhoni">
+  <data key="d1">6</data>
+</edge>
+<edge source="msdhoni" target="shreyasiyer">
+  <data key="d1">6</data>
+</edge>
+<edge source="msdhoni" target="srh">
+  <data key="d1">13</data>
+</edge>
+<edge source="msdhoni" target="stevesmith">
+  <data key="d1">6</data>
+</edge>
+<edge source="msdhoni" target="sureshraina">
+  <data key="d1">22</data>
+</edge>
+<edge source="msdhoni" target="teamindia">
+  <data key="d1">45</data>
+</edge>
+<edge source="msdhoni" target="telugumemes">
+  <data key="d1">7</data>
+</edge>
+<edge source="msdhoni" target="telugutrolls">
+  <data key="d1">7</data>
+</edge>
+<edge source="msdhoni" target="thala">
+  <data key="d1">29</data>
+</edge>
+<edge source="msdhoni" target="thaladhoni">
+  <data key="d1">10</data>
+</edge>
+<edge source="msdhoni" target="virat">
+  <data key="d1">26</data>
+</edge>
+<edge source="msdhoni" target="viratkohli">
+  <data key="d1">82</data>
+</edge>
+<edge source="msdhoni" target="whistelpodu">
+  <data key="d1">6</data>
+</edge>
+<edge source="msdhoni" target="whistlepodu">
+  <data key="d1">17</data>
+</edge>
+<edge source="msdhoni" target="worldcup">
+  <data key="d1">23</data>
+</edge>
+<edge source="msdhoni" target="yeallove">
+  <data key="d1">6</data>
+</edge>
+<edge source="polard" target="rcb">
+  <data key="d1">6</data>
+</edge>
+<edge source="polard" target="rohitsharma45">
+  <data key="d1">6</data>
+</edge>
+<edge source="polard" target="rr">
+  <data key="d1">6</data>
+</edge>
+<edge source="polard" target="shreyasiyer">
+  <data key="d1">6</data>
+</edge>
+<edge source="polard" target="srh">
+  <data key="d1">6</data>
+</edge>
+<edge source="polard" target="stevesmith">
+  <data key="d1">6</data>
+</edge>
+<edge source="polard" target="telugumemes">
+  <data key="d1">6</data>
+</edge>
+<edge source="polard" target="telugutrolls">
+  <data key="d1">6</data>
+</edge>
+<edge source="polard" target="viratkohli">
+  <data key="d1">6</data>
+</edge>
+<edge source="rcb" target="amitshah">
+  <data key="d1">7</data>
+</edge>
+<edge source="rcb" target="andale">
+  <data key="d1">12</data>
+</edge>
+<edge source="rcb" target="atlixcomakeup">
+  <data key="d1">12</data>
+</edge>
+<edge source="rcb" target="atlixcomakeupartist">
+  <data key="d1">12</data>
+</edge>
+<edge source="rcb" target="bangalore">
+  <data key="d1">6</data>
+</edge>
+<edge source="rcb" target="bcci">
+  <data key="d1">36</data>
+</edge>
+<edge source="rcb" target="bhakt">
+  <data key="d1">7</data>
+</edge>
+<edge source="rcb" target="bhfyp">
+  <data key="d1">30</data>
+</edge>
+<edge source="rcb" target="chennai">
+  <data key="d1">22</data>
+</edge>
+<edge source="rcb" target="chennaifoodie">
+  <data key="d1">6</data>
+</edge>
+<edge source="rcb" target="chennaisuperkings">
+  <data key="d1">48</data>
+</edge>
+<edge source="rcb" target="chinnathala">
+  <data key="d1">6</data>
+</edge>
+<edge source="rcb" target="cricketer">
+  <data key="d1">26</data>
+</edge>
+<edge source="rcb" target="cricketfans">
+  <data key="d1">27</data>
+</edge>
+<edge source="rcb" target="cricketmerijaan">
+  <data key="d1">24</data>
+</edge>
+<edge source="rcb" target="cskfan">
+  <data key="d1">6</data>
+</edge>
+<edge source="rcb" target="cskfans">
+  <data key="d1">21</data>
+</edge>
+<edge source="rcb" target="cskforever">
+  <data key="d1">6</data>
+</edge>
+<edge source="rcb" target="cskreturns">
+  <data key="d1">8</data>
+</edge>
+<edge source="rcb" target="delhicapitals">
+  <data key="d1">7</data>
+</edge>
+<edge source="rcb" target="dhoni">
+  <data key="d1">68</data>
+</edge>
+<edge source="rcb" target="dhonism">
+  <data key="d1">14</data>
+</edge>
+<edge source="rcb" target="dream">
+  <data key="d1">24</data>
+</edge>
+<edge source="rcb" target="hardikpandya">
+  <data key="d1">31</data>
+</edge>
+<edge source="rcb" target="icc">
+  <data key="d1">40</data>
+</edge>
+<edge source="rcb" target="india">
+  <data key="d1">48</data>
+</edge>
+<edge source="rcb" target="indiancricket">
+  <data key="d1">50</data>
+</edge>
+<edge source="rcb" target="indiancricketteam">
+  <data key="d1">43</data>
+</edge>
+<edge source="rcb" target="indianpremierleague">
+  <data key="d1">7</data>
+</edge>
+<edge source="rcb" target="instadaily">
+  <data key="d1">8</data>
+</edge>
+<edge source="rcb" target="instagood">
+  <data key="d1">9</data>
+</edge>
+<edge source="rcb" target="instagram">
+  <data key="d1">17</data>
+</edge>
+<edge source="rcb" target="ipl2020updates">
+  <data key="d1">6</data>
+</edge>
+<edge source="rcb" target="iplnews">
+  <data key="d1">7</data>
+</edge>
+<edge source="rcb" target="iplseason">
+  <data key="d1">6</data>
+</edge>
+<edge source="rcb" target="iplt20">
+  <data key="d1">12</data>
+</edge>
+<edge source="rcb" target="ipltreatment">
+  <data key="d1">8</data>
+</edge>
+<edge source="rcb" target="ipluae">
+  <data key="d1">6</data>
+</edge>
+<edge source="rcb" target="kangana">
+  <data key="d1">7</data>
+</edge>
+<edge source="rcb" target="kingsxipunjab">
+  <data key="d1">6</data>
+</edge>
+<edge source="rcb" target="kohli">
+  <data key="d1">10</data>
+</edge>
+<edge source="rcb" target="love">
+  <data key="d1">44</data>
+</edge>
+<edge source="rcb" target="madras">
+  <data key="d1">6</data>
+</edge>
+<edge source="rcb" target="mahi">
+  <data key="d1">42</data>
+</edge>
+<edge source="rcb" target="makeup">
+  <data key="d1">12</data>
+</edge>
+<edge source="rcb" target="memes">
+  <data key="d1">6</data>
+</edge>
+<edge source="rcb" target="mirzapur2">
+  <data key="d1">7</data>
+</edge>
+<edge source="rcb" target="modi">
+  <data key="d1">7</data>
+</edge>
+<edge source="rcb" target="msd">
+  <data key="d1">44</data>
+</edge>
+<edge source="rcb" target="msdians">
+  <data key="d1">14</data>
+</edge>
+<edge source="rcb" target="mumbai">
+  <data key="d1">9</data>
+</edge>
+<edge source="rcb" target="mumbaiindians">
+  <data key="d1">58</data>
+</edge>
+<edge source="rcb" target="rafadigital">
+  <data key="d1">18</data>
+</edge>
+<edge source="rcb" target="raina">
+  <data key="d1">9</data>
+</edge>
+<edge source="rcb" target="rajasthanroyals">
+  <data key="d1">6</data>
+</edge>
+<edge source="rcb" target="rcb">
+  <data key="d1">12</data>
+</edge>
+<edge source="rcb" target="rohitsharma">
+  <data key="d1">59</data>
+</edge>
+<edge source="rcb" target="rohitsharma45">
+  <data key="d1">7</data>
+</edge>
+<edge source="rcb" target="rr">
+  <data key="d1">22</data>
+</edge>
+<edge source="rcb" target="sachintendulkar">
+  <data key="d1">37</data>
+</edge>
+<edge source="rcb" target="shreyasiyer">
+  <data key="d1">7</data>
+</edge>
+<edge source="rcb" target="srh">
+  <data key="d1">30</data>
+</edge>
+<edge source="rcb" target="stevesmith">
+  <data key="d1">10</data>
+</edge>
+<edge source="rcb" target="sureshraina">
+  <data key="d1">22</data>
+</edge>
+<edge source="rcb" target="teamindia">
+  <data key="d1">37</data>
+</edge>
+<edge source="rcb" target="telugumemes">
+  <data key="d1">8</data>
+</edge>
+<edge source="rcb" target="telugutrolls">
+  <data key="d1">6</data>
+</edge>
+<edge source="rcb" target="thala">
+  <data key="d1">15</data>
+</edge>
+<edge source="rcb" target="thaladhoni">
+  <data key="d1">8</data>
+</edge>
+<edge source="rcb" target="tmkoc">
+  <data key="d1">7</data>
+</edge>
+<edge source="rcb" target="up">
+  <data key="d1">7</data>
+</edge>
+<edge source="rcb" target="virat">
+  <data key="d1">26</data>
+</edge>
+<edge source="rcb" target="viratkohli">
+  <data key="d1">77</data>
+</edge>
+<edge source="rcb" target="whistlepodu">
+  <data key="d1">21</data>
+</edge>
+<edge source="rcb" target="worldcup">
+  <data key="d1">22</data>
+</edge>
+<edge source="rcb" target="yellove">
+  <data key="d1">9</data>
+</edge>
+<edge source="rcb" target="yelloveagain">
+  <data key="d1">7</data>
+</edge>
+<edge source="rcb" target="yellowe">
+  <data key="d1">6</data>
+</edge>
+<edge source="rcb" target="yogi">
+  <data key="d1">7</data>
+</edge>
+<edge source="rohitsharma45" target="rr">
+  <data key="d1">6</data>
+</edge>
+<edge source="rohitsharma45" target="shreyasiyer">
+  <data key="d1">6</data>
+</edge>
+<edge source="rohitsharma45" target="srh">
+  <data key="d1">6</data>
+</edge>
+<edge source="rohitsharma45" target="stevesmith">
+  <data key="d1">6</data>
+</edge>
+<edge source="rohitsharma45" target="telugumemes">
+  <data key="d1">6</data>
+</edge>
+<edge source="rohitsharma45" target="telugutrolls">
+  <data key="d1">6</data>
+</edge>
+<edge source="rohitsharma45" target="viratkohli">
+  <data key="d1">8</data>
+</edge>
+<edge source="rr" target="rohitsharma">
+  <data key="d1">7</data>
+</edge>
+<edge source="rr" target="shreyasiyer">
+  <data key="d1">6</data>
+</edge>
+<edge source="rr" target="srh">
+  <data key="d1">24</data>
+</edge>
+<edge source="rr" target="stevesmith">
+  <data key="d1">6</data>
+</edge>
+<edge source="rr" target="telugumemes">
+  <data key="d1">6</data>
+</edge>
+<edge source="rr" target="telugutrolls">
+  <data key="d1">6</data>
+</edge>
+<edge source="rr" target="viratkohli">
+  <data key="d1">13</data>
+</edge>
+<edge source="shreyasiyer" target="srh">
+  <data key="d1">6</data>
+</edge>
+<edge source="shreyasiyer" target="stevesmith">
+  <data key="d1">6</data>
+</edge>
+<edge source="shreyasiyer" target="telugumemes">
+  <data key="d1">6</data>
+</edge>
+<edge source="shreyasiyer" target="telugutrolls">
+  <data key="d1">6</data>
+</edge>
+<edge source="shreyasiyer" target="viratkohli">
+  <data key="d1">6</data>
+</edge>
+<edge source="srh" target="delhi">
+  <data key="d1">6</data>
+</edge>
+<edge source="srh" target="india">
+  <data key="d1">6</data>
+</edge>
+<edge source="srh" target="mumbaiindians">
+  <data key="d1">10</data>
+</edge>
+<edge source="srh" target="rohitsharma">
+  <data key="d1">6</data>
+</edge>
+<edge source="srh" target="stevesmith">
+  <data key="d1">6</data>
+</edge>
+<edge source="srh" target="telugumemes">
+  <data key="d1">8</data>
+</edge>
+<edge source="srh" target="telugutrolls">
+  <data key="d1">6</data>
+</edge>
+<edge source="srh" target="viratkohli">
+  <data key="d1">15</data>
+</edge>
+<edge source="stevesmith" target="telugumemes">
+  <data key="d1">6</data>
+</edge>
+<edge source="stevesmith" target="telugutrolls">
+  <data key="d1">6</data>
+</edge>
+<edge source="stevesmith" target="viratkohli">
+  <data key="d1">10</data>
+</edge>
+<edge source="telugumemes" target="telugutrolls">
+  <data key="d1">9</data>
+</edge>
+<edge source="telugumemes" target="viratkohli">
+  <data key="d1">6</data>
+</edge>
+<edge source="telugutrolls" target="viratkohli">
+  <data key="d1">6</data>
+</edge>
+<edge source="viratkohli" target="bcci">
+  <data key="d1">39</data>
+</edge>
+<edge source="viratkohli" target="bhfyp">
+  <data key="d1">30</data>
+</edge>
+<edge source="viratkohli" target="chennai">
+  <data key="d1">15</data>
+</edge>
+<edge source="viratkohli" target="chennaisuperkings">
+  <data key="d1">42</data>
+</edge>
+<edge source="viratkohli" target="cricketer">
+  <data key="d1">26</data>
+</edge>
+<edge source="viratkohli" target="cricketfans">
+  <data key="d1">35</data>
+</edge>
+<edge source="viratkohli" target="cricketmerijaan">
+  <data key="d1">28</data>
+</edge>
+<edge source="viratkohli" target="cskfans">
+  <data key="d1">14</data>
+</edge>
+<edge source="viratkohli" target="delhi">
+  <data key="d1">6</data>
+</edge>
+<edge source="viratkohli" target="dhoni">
+  <data key="d1">61</data>
+</edge>
+<edge source="viratkohli" target="dhonism">
+  <data key="d1">15</data>
+</edge>
+<edge source="viratkohli" target="dream">
+  <data key="d1">24</data>
+</edge>
+<edge source="viratkohli" target="hardikpandya">
+  <data key="d1">33</data>
+</edge>
+<edge source="viratkohli" target="icc">
+  <data key="d1">51</data>
+</edge>
+<edge source="viratkohli" target="india">
+  <data key="d1">59</data>
+</edge>
+<edge source="viratkohli" target="indiancricket">
+  <data key="d1">67</data>
+</edge>
+<edge source="viratkohli" target="indiancricketteam">
+  <data key="d1">53</data>
+</edge>
+<edge source="viratkohli" target="insta">
+  <data key="d1">12</data>
+</edge>
+<edge source="viratkohli" target="instadaily">
+  <data key="d1">24</data>
+</edge>
+<edge source="viratkohli" target="instagood">
+  <data key="d1">21</data>
+</edge>
+<edge source="viratkohli" target="instagram">
+  <data key="d1">16</data>
+</edge>
+<edge source="viratkohli" target="instalike">
+  <data key="d1">12</data>
+</edge>
+<edge source="viratkohli" target="instaphoto">
+  <data key="d1">12</data>
+</edge>
+<edge source="viratkohli" target="instapic">
+  <data key="d1">12</data>
+</edge>
+<edge source="viratkohli" target="jaspritbumrah">
+  <data key="d1">6</data>
+</edge>
+<edge source="viratkohli" target="love">
+  <data key="d1">50</data>
+</edge>
+<edge source="viratkohli" target="loveyourself">
+  <data key="d1">12</data>
+</edge>
+<edge source="viratkohli" target="mahendrasinghdhoni">
+  <data key="d1">6</data>
+</edge>
+<edge source="viratkohli" target="mahi">
+  <data key="d1">37</data>
+</edge>
+<edge source="viratkohli" target="match">
+  <data key="d1">8</data>
+</edge>
+<edge source="viratkohli" target="msd">
+  <data key="d1">41</data>
+</edge>
+<edge source="viratkohli" target="msdians">
+  <data key="d1">17</data>
+</edge>
+<edge source="viratkohli" target="mumbaiindians">
+  <data key="d1">41</data>
+</edge>
+<edge source="viratkohli" target="photo">
+  <data key="d1">14</data>
+</edge>
+<edge source="viratkohli" target="photographer">
+  <data key="d1">12</data>
+</edge>
+<edge source="viratkohli" target="photography">
+  <data key="d1">15</data>
+</edge>
+<edge source="viratkohli" target="photooftheday">
+  <data key="d1">14</data>
+</edge>
+<edge source="viratkohli" target="photoshoot">
+  <data key="d1">14</data>
+</edge>
+<edge source="viratkohli" target="rohitsharma">
+  <data key="d1">73</data>
+</edge>
+<edge source="viratkohli" target="sachintendulkar">
+  <data key="d1">42</data>
+</edge>
+<edge source="viratkohli" target="share">
+  <data key="d1">12</data>
+</edge>
+<edge source="viratkohli" target="sureshraina">
+  <data key="d1">17</data>
+</edge>
+<edge source="viratkohli" target="teamindia">
+  <data key="d1">40</data>
+</edge>
+<edge source="viratkohli" target="thala">
+  <data key="d1">16</data>
+</edge>
+<edge source="viratkohli" target="virat">
+  <data key="d1">35</data>
+</edge>
+<edge source="viratkohli" target="viratkohli">
+  <data key="d1">10</data>
+</edge>
+<edge source="viratkohli" target="whistlepodu">
+  <data key="d1">14</data>
+</edge>
+<edge source="viratkohli" target="worldcup">
+  <data key="d1">23</data>
+</edge>
+<edge source="amitshah" target="bhakt">
+  <data key="d1">7</data>
+</edge>
+<edge source="amitshah" target="dhoni">
+  <data key="d1">7</data>
+</edge>
+<edge source="amitshah" target="instagram">
+  <data key="d1">7</data>
+</edge>
+<edge source="amitshah" target="kangana">
+  <data key="d1">7</data>
+</edge>
+<edge source="amitshah" target="kohli">
+  <data key="d1">7</data>
+</edge>
+<edge source="amitshah" target="mirzapur2">
+  <data key="d1">7</data>
+</edge>
+<edge source="amitshah" target="modi">
+  <data key="d1">7</data>
+</edge>
+<edge source="amitshah" target="mumbaiindians">
+  <data key="d1">7</data>
+</edge>
+<edge source="amitshah" target="up">
+  <data key="d1">7</data>
+</edge>
+<edge source="amitshah" target="yogi">
+  <data key="d1">7</data>
+</edge>
+<edge source="bhakt" target="dhoni">
+  <data key="d1">7</data>
+</edge>
+<edge source="bhakt" target="instagram">
+  <data key="d1">7</data>
+</edge>
+<edge source="bhakt" target="kangana">
+  <data key="d1">7</data>
+</edge>
+<edge source="bhakt" target="kohli">
+  <data key="d1">7</data>
+</edge>
+<edge source="bhakt" target="mirzapur2">
+  <data key="d1">7</data>
+</edge>
+<edge source="bhakt" target="modi">
+  <data key="d1">7</data>
+</edge>
+<edge source="bhakt" target="mumbaiindians">
+  <data key="d1">7</data>
+</edge>
+<edge source="bhakt" target="up">
+  <data key="d1">7</data>
+</edge>
+<edge source="bhakt" target="yogi">
+  <data key="d1">7</data>
+</edge>
+<edge source="dhoni" target="bangalore">
+  <data key="d1">6</data>
+</edge>
+<edge source="dhoni" target="bcci">
+  <data key="d1">36</data>
+</edge>
+<edge source="dhoni" target="bhfyp">
+  <data key="d1">30</data>
+</edge>
+<edge source="dhoni" target="chennai">
+  <data key="d1">29</data>
+</edge>
+<edge source="dhoni" target="chennaifoodie">
+  <data key="d1">6</data>
+</edge>
+<edge source="dhoni" target="chennaisuperkings">
+  <data key="d1">53</data>
+</edge>
+<edge source="dhoni" target="chinnathala">
+  <data key="d1">6</data>
+</edge>
+<edge source="dhoni" target="cricketer">
+  <data key="d1">25</data>
+</edge>
+<edge source="dhoni" target="cricketfans">
+  <data key="d1">26</data>
+</edge>
+<edge source="dhoni" target="cricketmerijaan">
+  <data key="d1">24</data>
+</edge>
+<edge source="dhoni" target="cskfan">
+  <data key="d1">6</data>
+</edge>
+<edge source="dhoni" target="cskfans">
+  <data key="d1">24</data>
+</edge>
+<edge source="dhoni" target="cskforever">
+  <data key="d1">6</data>
+</edge>
+<edge source="dhoni" target="cskreturns">
+  <data key="d1">8</data>
+</edge>
+<edge source="dhoni" target="dhonism">
+  <data key="d1">18</data>
+</edge>
+<edge source="dhoni" target="dream">
+  <data key="d1">24</data>
+</edge>
+<edge source="dhoni" target="hardikpandya">
+  <data key="d1">26</data>
+</edge>
+<edge source="dhoni" target="icc">
+  <data key="d1">40</data>
+</edge>
+<edge source="dhoni" target="india">
+  <data key="d1">45</data>
+</edge>
+<edge source="dhoni" target="indiancricket">
+  <data key="d1">51</data>
+</edge>
+<edge source="dhoni" target="indiancricketteam">
+  <data key="d1">45</data>
+</edge>
+<edge source="dhoni" target="indianpremierleague">
+  <data key="d1">6</data>
+</edge>
+<edge source="dhoni" target="instadaily">
+  <data key="d1">8</data>
+</edge>
+<edge source="dhoni" target="instagood">
+  <data key="d1">7</data>
+</edge>
+<edge source="dhoni" target="instagram">
+  <data key="d1">15</data>
+</edge>
+<edge source="dhoni" target="iplseason">
+  <data key="d1">6</data>
+</edge>
+<edge source="dhoni" target="iplt20">
+  <data key="d1">7</data>
+</edge>
+<edge source="dhoni" target="ipltreatment">
+  <data key="d1">6</data>
+</edge>
+<edge source="dhoni" target="kangana">
+  <data key="d1">7</data>
+</edge>
+<edge source="dhoni" target="kohli">
+  <data key="d1">8</data>
+</edge>
+<edge source="dhoni" target="love">
+  <data key="d1">42</data>
+</edge>
+<edge source="dhoni" target="madras">
+  <data key="d1">6</data>
+</edge>
+<edge source="dhoni" target="mahendrasinghdhoni">
+  <data key="d1">8</data>
+</edge>
+<edge source="dhoni" target="mahi">
+  <data key="d1">46</data>
+</edge>
+<edge source="dhoni" target="match">
+  <data key="d1">6</data>
+</edge>
+<edge source="dhoni" target="mirzapur2">
+  <data key="d1">7</data>
+</edge>
+<edge source="dhoni" target="modi">
+  <data key="d1">7</data>
+</edge>
+<edge source="dhoni" target="msd">
+  <data key="d1">46</data>
+</edge>
+<edge source="dhoni" target="msdians">
+  <data key="d1">18</data>
+</edge>
+<edge source="dhoni" target="mumbai">
+  <data key="d1">9</data>
+</edge>
+<edge source="dhoni" target="mumbaiindians">
+  <data key="d1">50</data>
+</edge>
+<edge source="dhoni" target="raina">
+  <data key="d1">9</data>
+</edge>
+<edge source="dhoni" target="rohitsharma">
+  <data key="d1">56</data>
+</edge>
+<edge source="dhoni" target="sachintendulkar">
+  <data key="d1">37</data>
+</edge>
+<edge source="dhoni" target="sureshraina">
+  <data key="d1">23</data>
+</edge>
+<edge source="dhoni" target="teamindia">
+  <data key="d1">39</data>
+</edge>
+<edge source="dhoni" target="thala">
+  <data key="d1">21</data>
+</edge>
+<edge source="dhoni" target="thaladhoni">
+  <data key="d1">12</data>
+</edge>
+<edge source="dhoni" target="up">
+  <data key="d1">7</data>
+</edge>
+<edge source="dhoni" target="virat">
+  <data key="d1">25</data>
+</edge>
+<edge source="dhoni" target="whistlepodu">
+  <data key="d1">26</data>
+</edge>
+<edge source="dhoni" target="worldcup">
+  <data key="d1">22</data>
+</edge>
+<edge source="dhoni" target="yellove">
+  <data key="d1">13</data>
+</edge>
+<edge source="dhoni" target="yelloveagain">
+  <data key="d1">7</data>
+</edge>
+<edge source="dhoni" target="yellowe">
+  <data key="d1">6</data>
+</edge>
+<edge source="dhoni" target="yogi">
+  <data key="d1">7</data>
+</edge>
+<edge source="instagram" target="india">
+  <data key="d1">10</data>
+</edge>
+<edge source="instagram" target="indiancricket">
+  <data key="d1">10</data>
+</edge>
+<edge source="instagram" target="indiancricketteam">
+  <data key="d1">8</data>
+</edge>
+<edge source="instagram" target="insta">
+  <data key="d1">6</data>
+</edge>
+<edge source="instagram" target="instadaily">
+  <data key="d1">11</data>
+</edge>
+<edge source="instagram" target="instagood">
+  <data key="d1">11</data>
+</edge>
+<edge source="instagram" target="instapic">
+  <data key="d1">6</data>
+</edge>
+<edge source="instagram" target="kangana">
+  <data key="d1">7</data>
+</edge>
+<edge source="instagram" target="kohli">
+  <data key="d1">7</data>
+</edge>
+<edge source="instagram" target="love">
+  <data key="d1">11</data>
+</edge>
+<edge source="instagram" target="match">
+  <data key="d1">6</data>
+</edge>
+<edge source="instagram" target="mirzapur2">
+  <data key="d1">7</data>
+</edge>
+<edge source="instagram" target="modi">
+  <data key="d1">8</data>
+</edge>
+<edge source="instagram" target="mumbaiindians">
+  <data key="d1">11</data>
+</edge>
+<edge source="instagram" target="photography">
+  <data key="d1">6</data>
+</edge>
+<edge source="instagram" target="tamilindustry">
+  <data key="d1">6</data>
+</edge>
+<edge source="instagram" target="up">
+  <data key="d1">7</data>
+</edge>
+<edge source="instagram" target="yogi">
+  <data key="d1">7</data>
+</edge>
+<edge source="kangana" target="kohli">
+  <data key="d1">7</data>
+</edge>
+<edge source="kangana" target="mirzapur2">
+  <data key="d1">7</data>
+</edge>
+<edge source="kangana" target="modi">
+  <data key="d1">7</data>
+</edge>
+<edge source="kangana" target="mumbaiindians">
+  <data key="d1">7</data>
+</edge>
+<edge source="kangana" target="up">
+  <data key="d1">7</data>
+</edge>
+<edge source="kangana" target="yogi">
+  <data key="d1">7</data>
+</edge>
+<edge source="kohli" target="mirzapur2">
+  <data key="d1">7</data>
+</edge>
+<edge source="kohli" target="modi">
+  <data key="d1">7</data>
+</edge>
+<edge source="kohli" target="mumbaiindians">
+  <data key="d1">8</data>
+</edge>
+<edge source="kohli" target="up">
+  <data key="d1">7</data>
+</edge>
+<edge source="kohli" target="yogi">
+  <data key="d1">7</data>
+</edge>
+<edge source="mirzapur2" target="modi">
+  <data key="d1">7</data>
+</edge>
+<edge source="mirzapur2" target="mumbaiindians">
+  <data key="d1">7</data>
+</edge>
+<edge source="mirzapur2" target="up">
+  <data key="d1">7</data>
+</edge>
+<edge source="mirzapur2" target="yogi">
+  <data key="d1">7</data>
+</edge>
+<edge source="modi" target="mumbaiindians">
+  <data key="d1">7</data>
+</edge>
+<edge source="modi" target="up">
+  <data key="d1">7</data>
+</edge>
+<edge source="modi" target="yogi">
+  <data key="d1">7</data>
+</edge>
+<edge source="mumbaiindians" target="bcci">
+  <data key="d1">36</data>
+</edge>
+<edge source="mumbaiindians" target="bhfyp">
+  <data key="d1">31</data>
+</edge>
+<edge source="mumbaiindians" target="chennai">
+  <data key="d1">13</data>
+</edge>
+<edge source="mumbaiindians" target="chennaisuperkings">
+  <data key="d1">45</data>
+</edge>
+<edge source="mumbaiindians" target="cricketer">
+  <data key="d1">25</data>
+</edge>
+<edge source="mumbaiindians" target="cricketfans">
+  <data key="d1">23</data>
+</edge>
+<edge source="mumbaiindians" target="cricketlife">
+  <data key="d1">8</data>
+</edge>
+<edge source="mumbaiindians" target="cricketlover">
+  <data key="d1">8</data>
+</edge>
+<edge source="mumbaiindians" target="cricketlovers">
+  <data key="d1">16</data>
+</edge>
+<edge source="mumbaiindians" target="cricketmerijaan">
+  <data key="d1">25</data>
+</edge>
+<edge source="mumbaiindians" target="cricketwireless">
+  <data key="d1">8</data>
+</edge>
+<edge source="mumbaiindians" target="cskfans">
+  <data key="d1">20</data>
+</edge>
+<edge source="mumbaiindians" target="cskreturns">
+  <data key="d1">8</data>
+</edge>
+<edge source="mumbaiindians" target="cskvsrcb">
+  <data key="d1">8</data>
+</edge>
+<edge source="mumbaiindians" target="delhicapitals">
+  <data key="d1">6</data>
+</edge>
+<edge source="mumbaiindians" target="dhonism">
+  <data key="d1">11</data>
+</edge>
+<edge source="mumbaiindians" target="dream">
+  <data key="d1">24</data>
+</edge>
+<edge source="mumbaiindians" target="hardikpandya">
+  <data key="d1">28</data>
+</edge>
+<edge source="mumbaiindians" target="icc">
+  <data key="d1">34</data>
+</edge>
+<edge source="mumbaiindians" target="india">
+  <data key="d1">36</data>
+</edge>
+<edge source="mumbaiindians" target="indiancricket">
+  <data key="d1">36</data>
+</edge>
+<edge source="mumbaiindians" target="indiancricketteam">
+  <data key="d1">35</data>
+</edge>
+<edge source="mumbaiindians" target="love">
+  <data key="d1">37</data>
+</edge>
+<edge source="mumbaiindians" target="mahi">
+  <data key="d1">31</data>
+</edge>
+<edge source="mumbaiindians" target="msd">
+  <data key="d1">35</data>
+</edge>
+<edge source="mumbaiindians" target="msdians">
+  <data key="d1">11</data>
+</edge>
+<edge source="mumbaiindians" target="mumbaiindians">
+  <data key="d1">8</data>
+</edge>
+<edge source="mumbaiindians" target="mumbaiindiansfan">
+  <data key="d1">14</data>
+</edge>
+<edge source="mumbaiindians" target="rohitsharma">
+  <data key="d1">48</data>
+</edge>
+<edge source="mumbaiindians" target="sachintendulkar">
+  <data key="d1">32</data>
+</edge>
+<edge source="mumbaiindians" target="sureshraina">
+  <data key="d1">13</data>
+</edge>
+<edge source="mumbaiindians" target="teamindia">
+  <data key="d1">37</data>
+</edge>
+<edge source="mumbaiindians" target="thala">
+  <data key="d1">12</data>
+</edge>
+<edge source="mumbaiindians" target="up">
+  <data key="d1">7</data>
+</edge>
+<edge source="mumbaiindians" target="virat">
+  <data key="d1">21</data>
+</edge>
+<edge source="mumbaiindians" target="whistlepodu">
+  <data key="d1">12</data>
+</edge>
+<edge source="mumbaiindians" target="worldcup">
+  <data key="d1">22</data>
+</edge>
+<edge source="mumbaiindians" target="yogi">
+  <data key="d1">7</data>
+</edge>
+<edge source="up" target="yogi">
+  <data key="d1">7</data>
+</edge>
+<edge source="andale" target="atlixcomakeup">
+  <data key="d1">6</data>
+</edge>
+<edge source="andale" target="atlixcomakeupartist">
+  <data key="d1">6</data>
+</edge>
+<edge source="andale" target="makeup">
+  <data key="d1">6</data>
+</edge>
+<edge source="andale" target="rafadigital">
+  <data key="d1">6</data>
+</edge>
+<edge source="atlixcomakeup" target="atlixcomakeupartist">
+  <data key="d1">6</data>
+</edge>
+<edge source="atlixcomakeup" target="makeup">
+  <data key="d1">6</data>
+</edge>
+<edge source="atlixcomakeup" target="rafadigital">
+  <data key="d1">6</data>
+</edge>
+<edge source="atlixcomakeupartist" target="makeup">
+  <data key="d1">6</data>
+</edge>
+<edge source="atlixcomakeupartist" target="rafadigital">
+  <data key="d1">6</data>
+</edge>
+<edge source="makeup" target="rafadigital">
+  <data key="d1">6</data>
+</edge>
+<edge source="balapliar" target="racenights">
+  <data key="d1">8</data>
+</edge>
+<edge source="racenights" target="balapmotornet">
+  <data key="d1">6</data>
+</edge>
+<edge source="racenights" target="indorace">
+  <data key="d1">6</data>
+</edge>
+<edge source="racenights" target="viralvideo">
+  <data key="d1">6</data>
+</edge>
+<edge source="bangalore" target="chennai">
+  <data key="d1">6</data>
+</edge>
+<edge source="bangalore" target="chennaifoodie">
+  <data key="d1">6</data>
+</edge>
+<edge source="bangalore" target="chennaisuperkings">
+  <data key="d1">6</data>
+</edge>
+<edge source="bangalore" target="chinnathala">
+  <data key="d1">6</data>
+</edge>
+<edge source="bangalore" target="cskfan">
+  <data key="d1">6</data>
+</edge>
+<edge source="bangalore" target="cskfans">
+  <data key="d1">6</data>
+</edge>
+<edge source="bangalore" target="cskforever">
+  <data key="d1">6</data>
+</edge>
+<edge source="bangalore" target="cskreturns">
+  <data key="d1">6</data>
+</edge>
+<edge source="bangalore" target="indianpremierleague">
+  <data key="d1">6</data>
+</edge>
+<edge source="bangalore" target="iplseason">
+  <data key="d1">6</data>
+</edge>
+<edge source="bangalore" target="iplt20">
+  <data key="d1">6</data>
+</edge>
+<edge source="bangalore" target="ipltreatment">
+  <data key="d1">6</data>
+</edge>
+<edge source="bangalore" target="madras">
+  <data key="d1">6</data>
+</edge>
+<edge source="bangalore" target="mahi">
+  <data key="d1">6</data>
+</edge>
+<edge source="bangalore" target="mumbai">
+  <data key="d1">6</data>
+</edge>
+<edge source="bangalore" target="raina">
+  <data key="d1">6</data>
+</edge>
+<edge source="bangalore" target="sureshraina">
+  <data key="d1">6</data>
+</edge>
+<edge source="bangalore" target="thaladhoni">
+  <data key="d1">6</data>
+</edge>
+<edge source="bangalore" target="whistlepodu">
+  <data key="d1">6</data>
+</edge>
+<edge source="bangalore" target="yellove">
+  <data key="d1">6</data>
+</edge>
+<edge source="bangalore" target="yelloveagain">
+  <data key="d1">6</data>
+</edge>
+<edge source="bangalore" target="yellowe">
+  <data key="d1">6</data>
+</edge>
+<edge source="chennai" target="bcci">
+  <data key="d1">10</data>
+</edge>
+<edge source="chennai" target="bhfyp">
+  <data key="d1">11</data>
+</edge>
+<edge source="chennai" target="chennaifoodie">
+  <data key="d1">6</data>
+</edge>
+<edge source="chennai" target="chennaisuperkings">
+  <data key="d1">26</data>
+</edge>
+<edge source="chennai" target="chinnathala">
+  <data key="d1">6</data>
+</edge>
+<edge source="chennai" target="cskfan">
+  <data key="d1">6</data>
+</edge>
+<edge source="chennai" target="cskfans">
+  <data key="d1">19</data>
+</edge>
+<edge source="chennai" target="cskforever">
+  <data key="d1">6</data>
+</edge>
+<edge source="chennai" target="cskreturns">
+  <data key="d1">6</data>
+</edge>
+<edge source="chennai" target="dhonism">
+  <data key="d1">15</data>
+</edge>
+<edge source="chennai" target="icc">
+  <data key="d1">10</data>
+</edge>
+<edge source="chennai" target="india">
+  <data key="d1">16</data>
+</edge>
+<edge source="chennai" target="indiancricket">
+  <data key="d1">13</data>
+</edge>
+<edge source="chennai" target="indiancricketteam">
+  <data key="d1">16</data>
+</edge>
+<edge source="chennai" target="indianpremierleague">
+  <data key="d1">6</data>
+</edge>
+<edge source="chennai" target="iplseason">
+  <data key="d1">6</data>
+</edge>
+<edge source="chennai" target="iplt20">
+  <data key="d1">6</data>
+</edge>
+<edge source="chennai" target="ipltreatment">
+  <data key="d1">6</data>
+</edge>
+<edge source="chennai" target="love">
+  <data key="d1">15</data>
+</edge>
+<edge source="chennai" target="madras">
+  <data key="d1">6</data>
+</edge>
+<edge source="chennai" target="mahendrasinghdhoni">
+  <data key="d1">6</data>
+</edge>
+<edge source="chennai" target="mahi">
+  <data key="d1">24</data>
+</edge>
+<edge source="chennai" target="meme">
+  <data key="d1">6</data>
+</edge>
+<edge source="chennai" target="msd">
+  <data key="d1">19</data>
+</edge>
+<edge source="chennai" target="msdians">
+  <data key="d1">18</data>
+</edge>
+<edge source="chennai" target="mumbai">
+  <data key="d1">11</data>
+</edge>
+<edge source="chennai" target="raina">
+  <data key="d1">9</data>
+</edge>
+<edge source="chennai" target="rohitsharma">
+  <data key="d1">13</data>
+</edge>
+<edge source="chennai" target="sachintendulkar">
+  <data key="d1">8</data>
+</edge>
+<edge source="chennai" target="sureshraina">
+  <data key="d1">22</data>
+</edge>
+<edge source="chennai" target="teamindia">
+  <data key="d1">13</data>
+</edge>
+<edge source="chennai" target="thala">
+  <data key="d1">19</data>
+</edge>
+<edge source="chennai" target="thaladhoni">
+  <data key="d1">11</data>
+</edge>
+<edge source="chennai" target="whistlepodu">
+  <data key="d1">25</data>
+</edge>
+<edge source="chennai" target="yellove">
+  <data key="d1">10</data>
+</edge>
+<edge source="chennai" target="yelloveagain">
+  <data key="d1">6</data>
+</edge>
+<edge source="chennai" target="yellowe">
+  <data key="d1">6</data>
+</edge>
+<edge source="chennaifoodie" target="chennaisuperkings">
+  <data key="d1">6</data>
+</edge>
+<edge source="chennaifoodie" target="chinnathala">
+  <data key="d1">6</data>
+</edge>
+<edge source="chennaifoodie" target="cskfan">
+  <data key="d1">6</data>
+</edge>
+<edge source="chennaifoodie" target="cskfans">
+  <data key="d1">6</data>
+</edge>
+<edge source="chennaifoodie" target="cskforever">
+  <data key="d1">6</data>
+</edge>
+<edge source="chennaifoodie" target="cskreturns">
+  <data key="d1">6</data>
+</edge>
+<edge source="chennaifoodie" target="indianpremierleague">
+  <data key="d1">6</data>
+</edge>
+<edge source="chennaifoodie" target="iplseason">
+  <data key="d1">6</data>
+</edge>
+<edge source="chennaifoodie" target="iplt20">
+  <data key="d1">6</data>
+</edge>
+<edge source="chennaifoodie" target="ipltreatment">
+  <data key="d1">6</data>
+</edge>
+<edge source="chennaifoodie" target="madras">
+  <data key="d1">6</data>
+</edge>
+<edge source="chennaifoodie" target="mahi">
+  <data key="d1">6</data>
+</edge>
+<edge source="chennaifoodie" target="mumbai">
+  <data key="d1">6</data>
+</edge>
+<edge source="chennaifoodie" target="raina">
+  <data key="d1">6</data>
+</edge>
+<edge source="chennaifoodie" target="sureshraina">
+  <data key="d1">6</data>
+</edge>
+<edge source="chennaifoodie" target="thaladhoni">
+  <data key="d1">6</data>
+</edge>
+<edge source="chennaifoodie" target="whistlepodu">
+  <data key="d1">6</data>
+</edge>
+<edge source="chennaifoodie" target="yellove">
+  <data key="d1">6</data>
+</edge>
+<edge source="chennaifoodie" target="yelloveagain">
+  <data key="d1">6</data>
+</edge>
+<edge source="chennaifoodie" target="yellowe">
+  <data key="d1">6</data>
+</edge>
+<edge source="chennaisuperkings" target="bcci">
+  <data key="d1">35</data>
+</edge>
+<edge source="chennaisuperkings" target="bhfyp">
+  <data key="d1">30</data>
+</edge>
+<edge source="chennaisuperkings" target="chinnathala">
+  <data key="d1">6</data>
+</edge>
+<edge source="chennaisuperkings" target="cricketer">
+  <data key="d1">23</data>
+</edge>
+<edge source="chennaisuperkings" target="cricketfans">
+  <data key="d1">23</data>
+</edge>
+<edge source="chennaisuperkings" target="cricketmerijaan">
+  <data key="d1">23</data>
+</edge>
+<edge source="chennaisuperkings" target="cskfan">
+  <data key="d1">6</data>
+</edge>
+<edge source="chennaisuperkings" target="cskfans">
+  <data key="d1">21</data>
+</edge>
+<edge source="chennaisuperkings" target="cskforever">
+  <data key="d1">6</data>
+</edge>
+<edge source="chennaisuperkings" target="cskreturns">
+  <data key="d1">9</data>
+</edge>
+<edge source="chennaisuperkings" target="dhonism">
+  <data key="d1">16</data>
+</edge>
+<edge source="chennaisuperkings" target="dream">
+  <data key="d1">22</data>
+</edge>
+<edge source="chennaisuperkings" target="hardikpandya">
+  <data key="d1">24</data>
+</edge>
+<edge source="chennaisuperkings" target="icc">
+  <data key="d1">33</data>
+</edge>
+<edge source="chennaisuperkings" target="india">
+  <data key="d1">38</data>
+</edge>
+<edge source="chennaisuperkings" target="indiancricket">
+  <data key="d1">37</data>
+</edge>
+<edge source="chennaisuperkings" target="indiancricketteam">
+  <data key="d1">39</data>
+</edge>
+<edge source="chennaisuperkings" target="indianpremierleague">
+  <data key="d1">8</data>
+</edge>
+<edge source="chennaisuperkings" target="iplseason">
+  <data key="d1">6</data>
+</edge>
+<edge source="chennaisuperkings" target="iplt20">
+  <data key="d1">7</data>
+</edge>
+<edge source="chennaisuperkings" target="ipltreatment">
+  <data key="d1">6</data>
+</edge>
+<edge source="chennaisuperkings" target="love">
+  <data key="d1">37</data>
+</edge>
+<edge source="chennaisuperkings" target="madras">
+  <data key="d1">6</data>
+</edge>
+<edge source="chennaisuperkings" target="mahendrasinghdhoni">
+  <data key="d1">7</data>
+</edge>
+<edge source="chennaisuperkings" target="mahi">
+  <data key="d1">46</data>
+</edge>
+<edge source="chennaisuperkings" target="msd">
+  <data key="d1">42</data>
+</edge>
+<edge source="chennaisuperkings" target="msdians">
+  <data key="d1">18</data>
+</edge>
+<edge source="chennaisuperkings" target="mumbai">
+  <data key="d1">11</data>
+</edge>
+<edge source="chennaisuperkings" target="raina">
+  <data key="d1">9</data>
+</edge>
+<edge source="chennaisuperkings" target="rohitsharma">
+  <data key="d1">42</data>
+</edge>
+<edge source="chennaisuperkings" target="sachintendulkar">
+  <data key="d1">31</data>
+</edge>
+<edge source="chennaisuperkings" target="sureshraina">
+  <data key="d1">26</data>
+</edge>
+<edge source="chennaisuperkings" target="teamindia">
+  <data key="d1">37</data>
+</edge>
+<edge source="chennaisuperkings" target="thala">
+  <data key="d1">21</data>
+</edge>
+<edge source="chennaisuperkings" target="thaladhoni">
+  <data key="d1">12</data>
+</edge>
+<edge source="chennaisuperkings" target="virat">
+  <data key="d1">21</data>
+</edge>
+<edge source="chennaisuperkings" target="whistlepodu">
+  <data key="d1">24</data>
+</edge>
+<edge source="chennaisuperkings" target="worldcup">
+  <data key="d1">22</data>
+</edge>
+<edge source="chennaisuperkings" target="yellove">
+  <data key="d1">11</data>
+</edge>
+<edge source="chennaisuperkings" target="yelloveagain">
+  <data key="d1">7</data>
+</edge>
+<edge source="chennaisuperkings" target="yellowe">
+  <data key="d1">6</data>
+</edge>
+<edge source="chinnathala" target="cskfan">
+  <data key="d1">6</data>
+</edge>
+<edge source="chinnathala" target="cskfans">
+  <data key="d1">6</data>
+</edge>
+<edge source="chinnathala" target="cskforever">
+  <data key="d1">6</data>
+</edge>
+<edge source="chinnathala" target="cskreturns">
+  <data key="d1">6</data>
+</edge>
+<edge source="chinnathala" target="indianpremierleague">
+  <data key="d1">6</data>
+</edge>
+<edge source="chinnathala" target="iplseason">
+  <data key="d1">6</data>
+</edge>
+<edge source="chinnathala" target="iplt20">
+  <data key="d1">6</data>
+</edge>
+<edge source="chinnathala" target="ipltreatment">
+  <data key="d1">6</data>
+</edge>
+<edge source="chinnathala" target="madras">
+  <data key="d1">6</data>
+</edge>
+<edge source="chinnathala" target="mahi">
+  <data key="d1">6</data>
+</edge>
+<edge source="chinnathala" target="mumbai">
+  <data key="d1">6</data>
+</edge>
+<edge source="chinnathala" target="raina">
+  <data key="d1">6</data>
+</edge>
+<edge source="chinnathala" target="sureshraina">
+  <data key="d1">6</data>
+</edge>
+<edge source="chinnathala" target="thaladhoni">
+  <data key="d1">6</data>
+</edge>
+<edge source="chinnathala" target="whistlepodu">
+  <data key="d1">6</data>
+</edge>
+<edge source="chinnathala" target="yellove">
+  <data key="d1">6</data>
+</edge>
+<edge source="chinnathala" target="yelloveagain">
+  <data key="d1">6</data>
+</edge>
+<edge source="chinnathala" target="yellowe">
+  <data key="d1">6</data>
+</edge>
+<edge source="cskfan" target="cskfans">
+  <data key="d1">6</data>
+</edge>
+<edge source="cskfan" target="cskforever">
+  <data key="d1">6</data>
+</edge>
+<edge source="cskfan" target="cskreturns">
+  <data key="d1">6</data>
+</edge>
+<edge source="cskfan" target="indianpremierleague">
+  <data key="d1">6</data>
+</edge>
+<edge source="cskfan" target="iplseason">
+  <data key="d1">6</data>
+</edge>
+<edge source="cskfan" target="iplt20">
+  <data key="d1">6</data>
+</edge>
+<edge source="cskfan" target="ipltreatment">
+  <data key="d1">6</data>
+</edge>
+<edge source="cskfan" target="madras">
+  <data key="d1">6</data>
+</edge>
+<edge source="cskfan" target="mahi">
+  <data key="d1">6</data>
+</edge>
+<edge source="cskfan" target="mumbai">
+  <data key="d1">6</data>
+</edge>
+<edge source="cskfan" target="raina">
+  <data key="d1">6</data>
+</edge>
+<edge source="cskfan" target="sureshraina">
+  <data key="d1">6</data>
+</edge>
+<edge source="cskfan" target="thaladhoni">
+  <data key="d1">6</data>
+</edge>
+<edge source="cskfan" target="whistlepodu">
+  <data key="d1">6</data>
+</edge>
+<edge source="cskfan" target="yellove">
+  <data key="d1">6</data>
+</edge>
+<edge source="cskfan" target="yelloveagain">
+  <data key="d1">6</data>
+</edge>
+<edge source="cskfan" target="yellowe">
+  <data key="d1">6</data>
+</edge>
+<edge source="cskfans" target="bcci">
+  <data key="d1">10</data>
+</edge>
+<edge source="cskfans" target="bhfyp">
+  <data key="d1">11</data>
+</edge>
+<edge source="cskfans" target="cricketlovers">
+  <data key="d1">8</data>
+</edge>
+<edge source="cskfans" target="cskforever">
+  <data key="d1">6</data>
+</edge>
+<edge source="cskfans" target="cskreturns">
+  <data key="d1">14</data>
+</edge>
+<edge source="cskfans" target="dhonism">
+  <data key="d1">15</data>
+</edge>
+<edge source="cskfans" target="icc">
+  <data key="d1">10</data>
+</edge>
+<edge source="cskfans" target="india">
+  <data key="d1">11</data>
+</edge>
+<edge source="cskfans" target="indiancricket">
+  <data key="d1">13</data>
+</edge>
+<edge source="cskfans" target="indiancricketteam">
+  <data key="d1">13</data>
+</edge>
+<edge source="cskfans" target="indianpremierleague">
+  <data key="d1">8</data>
+</edge>
+<edge source="cskfans" target="iplseason">
+  <data key="d1">6</data>
+</edge>
+<edge source="cskfans" target="iplt20">
+  <data key="d1">6</data>
+</edge>
+<edge source="cskfans" target="ipltreatment">
+  <data key="d1">9</data>
+</edge>
+<edge source="cskfans" target="love">
+  <data key="d1">10</data>
+</edge>
+<edge source="cskfans" target="madras">
+  <data key="d1">6</data>
+</edge>
+<edge source="cskfans" target="mahi">
+  <data key="d1">20</data>
+</edge>
+<edge source="cskfans" target="msd">
+  <data key="d1">13</data>
+</edge>
+<edge source="cskfans" target="msdians">
+  <data key="d1">13</data>
+</edge>
+<edge source="cskfans" target="mumbai">
+  <data key="d1">6</data>
+</edge>
+<edge source="cskfans" target="mumbaiindiansfan">
+  <data key="d1">6</data>
+</edge>
+<edge source="cskfans" target="raina">
+  <data key="d1">6</data>
+</edge>
+<edge source="cskfans" target="rohitsharma">
+  <data key="d1">13</data>
+</edge>
+<edge source="cskfans" target="sachintendulkar">
+  <data key="d1">8</data>
+</edge>
+<edge source="cskfans" target="sureshraina">
+  <data key="d1">19</data>
+</edge>
+<edge source="cskfans" target="teamindia">
+  <data key="d1">13</data>
+</edge>
+<edge source="cskfans" target="thala">
+  <data key="d1">13</data>
+</edge>
+<edge source="cskfans" target="thaladhoni">
+  <data key="d1">9</data>
+</edge>
+<edge source="cskfans" target="whistlepodu">
+  <data key="d1">17</data>
+</edge>
+<edge source="cskfans" target="yellove">
+  <data key="d1">7</data>
+</edge>
+<edge source="cskfans" target="yelloveagain">
+  <data key="d1">6</data>
+</edge>
+<edge source="cskfans" target="yellowe">
+  <data key="d1">6</data>
+</edge>
+<edge source="cskforever" target="cskreturns">
+  <data key="d1">6</data>
+</edge>
+<edge source="cskforever" target="indianpremierleague">
+  <data key="d1">6</data>
+</edge>
+<edge source="cskforever" target="iplseason">
+  <data key="d1">6</data>
+</edge>
+<edge source="cskforever" target="iplt20">
+  <data key="d1">6</data>
+</edge>
+<edge source="cskforever" target="ipltreatment">
+  <data key="d1">6</data>
+</edge>
+<edge source="cskforever" target="madras">
+  <data key="d1">6</data>
+</edge>
+<edge source="cskforever" target="mahi">
+  <data key="d1">6</data>
+</edge>
+<edge source="cskforever" target="mumbai">
+  <data key="d1">6</data>
+</edge>
+<edge source="cskforever" target="raina">
+  <data key="d1">6</data>
+</edge>
+<edge source="cskforever" target="sureshraina">
+  <data key="d1">6</data>
+</edge>
+<edge source="cskforever" target="thaladhoni">
+  <data key="d1">6</data>
+</edge>
+<edge source="cskforever" target="whistlepodu">
+  <data key="d1">6</data>
+</edge>
+<edge source="cskforever" target="yellove">
+  <data key="d1">6</data>
+</edge>
+<edge source="cskforever" target="yelloveagain">
+  <data key="d1">6</data>
+</edge>
+<edge source="cskforever" target="yellowe">
+  <data key="d1">6</data>
+</edge>
+<edge source="cskreturns" target="cricketlovers">
+  <data key="d1">8</data>
+</edge>
+<edge source="cskreturns" target="indianpremierleague">
+  <data key="d1">7</data>
+</edge>
+<edge source="cskreturns" target="iplseason">
+  <data key="d1">6</data>
+</edge>
+<edge source="cskreturns" target="iplt20">
+  <data key="d1">6</data>
+</edge>
+<edge source="cskreturns" target="ipltreatment">
+  <data key="d1">8</data>
+</edge>
+<edge source="cskreturns" target="madras">
+  <data key="d1">6</data>
+</edge>
+<edge source="cskreturns" target="mahi">
+  <data key="d1">6</data>
+</edge>
+<edge source="cskreturns" target="mumbai">
+  <data key="d1">6</data>
+</edge>
+<edge source="cskreturns" target="mumbaiindiansfan">
+  <data key="d1">6</data>
+</edge>
+<edge source="cskreturns" target="raina">
+  <data key="d1">6</data>
+</edge>
+<edge source="cskreturns" target="sureshraina">
+  <data key="d1">8</data>
+</edge>
+<edge source="cskreturns" target="thaladhoni">
+  <data key="d1">6</data>
+</edge>
+<edge source="cskreturns" target="whistlepodu">
+  <data key="d1">6</data>
+</edge>
+<edge source="cskreturns" target="yellove">
+  <data key="d1">6</data>
+</edge>
+<edge source="cskreturns" target="yelloveagain">
+  <data key="d1">6</data>
+</edge>
+<edge source="cskreturns" target="yellowe">
+  <data key="d1">6</data>
+</edge>
+<edge source="indianpremierleague" target="iplseason">
+  <data key="d1">6</data>
+</edge>
+<edge source="indianpremierleague" target="iplt20">
+  <data key="d1">6</data>
+</edge>
+<edge source="indianpremierleague" target="ipltreatment">
+  <data key="d1">6</data>
+</edge>
+<edge source="indianpremierleague" target="madras">
+  <data key="d1">6</data>
+</edge>
+<edge source="indianpremierleague" target="mahi">
+  <data key="d1">6</data>
+</edge>
+<edge source="indianpremierleague" target="mumbai">
+  <data key="d1">6</data>
+</edge>
+<edge source="indianpremierleague" target="raina">
+  <data key="d1">6</data>
+</edge>
+<edge source="indianpremierleague" target="sureshraina">
+  <data key="d1">6</data>
+</edge>
+<edge source="indianpremierleague" target="thaladhoni">
+  <data key="d1">6</data>
+</edge>
+<edge source="indianpremierleague" target="whistlepodu">
+  <data key="d1">6</data>
+</edge>
+<edge source="indianpremierleague" target="yellove">
+  <data key="d1">6</data>
+</edge>
+<edge source="indianpremierleague" target="yelloveagain">
+  <data key="d1">6</data>
+</edge>
+<edge source="indianpremierleague" target="yellowe">
+  <data key="d1">6</data>
+</edge>
+<edge source="iplseason" target="iplt20">
+  <data key="d1">6</data>
+</edge>
+<edge source="iplseason" target="ipltreatment">
+  <data key="d1">6</data>
+</edge>
+<edge source="iplseason" target="madras">
+  <data key="d1">6</data>
+</edge>
+<edge source="iplseason" target="mahi">
+  <data key="d1">6</data>
+</edge>
+<edge source="iplseason" target="mumbai">
+  <data key="d1">6</data>
+</edge>
+<edge source="iplseason" target="raina">
+  <data key="d1">6</data>
+</edge>
+<edge source="iplseason" target="sureshraina">
+  <data key="d1">6</data>
+</edge>
+<edge source="iplseason" target="thaladhoni">
+  <data key="d1">6</data>
+</edge>
+<edge source="iplseason" target="whistlepodu">
+  <data key="d1">6</data>
+</edge>
+<edge source="iplseason" target="yellove">
+  <data key="d1">6</data>
+</edge>
+<edge source="iplseason" target="yelloveagain">
+  <data key="d1">6</data>
+</edge>
+<edge source="iplseason" target="yellowe">
+  <data key="d1">6</data>
+</edge>
+<edge source="iplt20" target="ipltreatment">
+  <data key="d1">6</data>
+</edge>
+<edge source="iplt20" target="madras">
+  <data key="d1">6</data>
+</edge>
+<edge source="iplt20" target="mahi">
+  <data key="d1">6</data>
+</edge>
+<edge source="iplt20" target="mumbai">
+  <data key="d1">6</data>
+</edge>
+<edge source="iplt20" target="raina">
+  <data key="d1">6</data>
+</edge>
+<edge source="iplt20" target="sureshraina">
+  <data key="d1">6</data>
+</edge>
+<edge source="iplt20" target="thaladhoni">
+  <data key="d1">6</data>
+</edge>
+<edge source="iplt20" target="whistlepodu">
+  <data key="d1">6</data>
+</edge>
+<edge source="iplt20" target="yellove">
+  <data key="d1">6</data>
+</edge>
+<edge source="iplt20" target="yelloveagain">
+  <data key="d1">6</data>
+</edge>
+<edge source="iplt20" target="yellowe">
+  <data key="d1">6</data>
+</edge>
+<edge source="ipltreatment" target="madras">
+  <data key="d1">6</data>
+</edge>
+<edge source="ipltreatment" target="mahi">
+  <data key="d1">6</data>
+</edge>
+<edge source="ipltreatment" target="mumbai">
+  <data key="d1">6</data>
+</edge>
+<edge source="ipltreatment" target="raina">
+  <data key="d1">6</data>
+</edge>
+<edge source="ipltreatment" target="sureshraina">
+  <data key="d1">6</data>
+</edge>
+<edge source="ipltreatment" target="thaladhoni">
+  <data key="d1">6</data>
+</edge>
+<edge source="ipltreatment" target="whistlepodu">
+  <data key="d1">6</data>
+</edge>
+<edge source="ipltreatment" target="yellove">
+  <data key="d1">6</data>
+</edge>
+<edge source="ipltreatment" target="yelloveagain">
+  <data key="d1">6</data>
+</edge>
+<edge source="ipltreatment" target="yellowe">
+  <data key="d1">6</data>
+</edge>
+<edge source="madras" target="mahi">
+  <data key="d1">6</data>
+</edge>
+<edge source="madras" target="mumbai">
+  <data key="d1">6</data>
+</edge>
+<edge source="madras" target="raina">
+  <data key="d1">6</data>
+</edge>
+<edge source="madras" target="sureshraina">
+  <data key="d1">6</data>
+</edge>
+<edge source="madras" target="thaladhoni">
+  <data key="d1">6</data>
+</edge>
+<edge source="madras" target="whistlepodu">
+  <data key="d1">6</data>
+</edge>
+<edge source="madras" target="yellove">
+  <data key="d1">6</data>
+</edge>
+<edge source="madras" target="yelloveagain">
+  <data key="d1">6</data>
+</edge>
+<edge source="madras" target="yellowe">
+  <data key="d1">6</data>
+</edge>
+<edge source="mahi" target="bcci">
+  <data key="d1">31</data>
+</edge>
+<edge source="mahi" target="bhfyp">
+  <data key="d1">30</data>
+</edge>
+<edge source="mahi" target="cricketer">
+  <data key="d1">20</data>
+</edge>
+<edge source="mahi" target="cricketfans">
+  <data key="d1">20</data>
+</edge>
+<edge source="mahi" target="cricketmerijaan">
+  <data key="d1">20</data>
+</edge>
+<edge source="mahi" target="dhonism">
+  <data key="d1">16</data>
+</edge>
+<edge source="mahi" target="dream">
+  <data key="d1">20</data>
+</edge>
+<edge source="mahi" target="hardikpandya">
+  <data key="d1">21</data>
+</edge>
+<edge source="mahi" target="icc">
+  <data key="d1">31</data>
+</edge>
+<edge source="mahi" target="india">
+  <data key="d1">35</data>
+</edge>
+<edge source="mahi" target="indiancricket">
+  <data key="d1">34</data>
+</edge>
+<edge source="mahi" target="indiancricketteam">
+  <data key="d1">37</data>
+</edge>
+<edge source="mahi" target="love">
+  <data key="d1">33</data>
+</edge>
+<edge source="mahi" target="mahendrasinghdhoni">
+  <data key="d1">6</data>
+</edge>
+<edge source="mahi" target="msd">
+  <data key="d1">39</data>
+</edge>
+<edge source="mahi" target="msdians">
+  <data key="d1">18</data>
+</edge>
+<edge source="mahi" target="mumbai">
+  <data key="d1">9</data>
+</edge>
+<edge source="mahi" target="raina">
+  <data key="d1">9</data>
+</edge>
+<edge source="mahi" target="rohitsharma">
+  <data key="d1">33</data>
+</edge>
+<edge source="mahi" target="sachintendulkar">
+  <data key="d1">29</data>
+</edge>
+<edge source="mahi" target="sureshraina">
+  <data key="d1">22</data>
+</edge>
+<edge source="mahi" target="teamindia">
+  <data key="d1">34</data>
+</edge>
+<edge source="mahi" target="thala">
+  <data key="d1">19</data>
+</edge>
+<edge source="mahi" target="thaladhoni">
+  <data key="d1">12</data>
+</edge>
+<edge source="mahi" target="virat">
+  <data key="d1">20</data>
+</edge>
+<edge source="mahi" target="whistlepodu">
+  <data key="d1">22</data>
+</edge>
+<edge source="mahi" target="worldcup">
+  <data key="d1">20</data>
+</edge>
+<edge source="mahi" target="yellove">
+  <data key="d1">7</data>
+</edge>
+<edge source="mahi" target="yelloveagain">
+  <data key="d1">6</data>
+</edge>
+<edge source="mahi" target="yellowe">
+  <data key="d1">6</data>
+</edge>
+<edge source="mumbai" target="love">
+  <data key="d1">7</data>
+</edge>
+<edge source="mumbai" target="raina">
+  <data key="d1">9</data>
+</edge>
+<edge source="mumbai" target="sureshraina">
+  <data key="d1">9</data>
+</edge>
+<edge source="mumbai" target="thaladhoni">
+  <data key="d1">6</data>
+</edge>
+<edge source="mumbai" target="whistlepodu">
+  <data key="d1">9</data>
+</edge>
+<edge source="mumbai" target="yellove">
+  <data key="d1">6</data>
+</edge>
+<edge source="mumbai" target="yelloveagain">
+  <data key="d1">6</data>
+</edge>
+<edge source="mumbai" target="yellowe">
+  <data key="d1">6</data>
+</edge>
+<edge source="raina" target="sureshraina">
+  <data key="d1">9</data>
+</edge>
+<edge source="raina" target="thaladhoni">
+  <data key="d1">6</data>
+</edge>
+<edge source="raina" target="whistlepodu">
+  <data key="d1">9</data>
+</edge>
+<edge source="raina" target="yellove">
+  <data key="d1">6</data>
+</edge>
+<edge source="raina" target="yelloveagain">
+  <data key="d1">6</data>
+</edge>
+<edge source="raina" target="yellowe">
+  <data key="d1">6</data>
+</edge>
+<edge source="sureshraina" target="bcci">
+  <data key="d1">10</data>
+</edge>
+<edge source="sureshraina" target="bhfyp">
+  <data key="d1">11</data>
+</edge>
+<edge source="sureshraina" target="dhonism">
+  <data key="d1">13</data>
+</edge>
+<edge source="sureshraina" target="icc">
+  <data key="d1">10</data>
+</edge>
+<edge source="sureshraina" target="india">
+  <data key="d1">14</data>
+</edge>
+<edge source="sureshraina" target="indiancricket">
+  <data key="d1">14</data>
+</edge>
+<edge source="sureshraina" target="indiancricketteam">
+  <data key="d1">16</data>
+</edge>
+<edge source="sureshraina" target="love">
+  <data key="d1">13</data>
+</edge>
+<edge source="sureshraina" target="msd">
+  <data key="d1">16</data>
+</edge>
+<edge source="sureshraina" target="msdians">
+  <data key="d1">16</data>
+</edge>
+<edge source="sureshraina" target="rohitsharma">
+  <data key="d1">13</data>
+</edge>
+<edge source="sureshraina" target="sachintendulkar">
+  <data key="d1">8</data>
+</edge>
+<edge source="sureshraina" target="teamindia">
+  <data key="d1">13</data>
+</edge>
+<edge source="sureshraina" target="thala">
+  <data key="d1">16</data>
+</edge>
+<edge source="sureshraina" target="thaladhoni">
+  <data key="d1">9</data>
+</edge>
+<edge source="sureshraina" target="whistlepodu">
+  <data key="d1">21</data>
+</edge>
+<edge source="sureshraina" target="yellove">
+  <data key="d1">8</data>
+</edge>
+<edge source="sureshraina" target="yelloveagain">
+  <data key="d1">7</data>
+</edge>
+<edge source="sureshraina" target="yellowe">
+  <data key="d1">6</data>
+</edge>
+<edge source="thaladhoni" target="dhonism">
+  <data key="d1">6</data>
+</edge>
+<edge source="thaladhoni" target="mahendrasinghdhoni">
+  <data key="d1">6</data>
+</edge>
+<edge source="thaladhoni" target="msd">
+  <data key="d1">6</data>
+</edge>
+<edge source="thaladhoni" target="thala">
+  <data key="d1">6</data>
+</edge>
+<edge source="thaladhoni" target="whistlepodu">
+  <data key="d1">9</data>
+</edge>
+<edge source="thaladhoni" target="yellove">
+  <data key="d1">7</data>
+</edge>
+<edge source="thaladhoni" target="yelloveagain">
+  <data key="d1">6</data>
+</edge>
+<edge source="thaladhoni" target="yellowe">
+  <data key="d1">6</data>
+</edge>
+<edge source="whistlepodu" target="bcci">
+  <data key="d1">10</data>
+</edge>
+<edge source="whistlepodu" target="bhfyp">
+  <data key="d1">11</data>
+</edge>
+<edge source="whistlepodu" target="dhonism">
+  <data key="d1">13</data>
+</edge>
+<edge source="whistlepodu" target="icc">
+  <data key="d1">10</data>
+</edge>
+<edge source="whistlepodu" target="india">
+  <data key="d1">14</data>
+</edge>
+<edge source="whistlepodu" target="indiancricket">
+  <data key="d1">12</data>
+</edge>
+<edge source="whistlepodu" target="indiancricketteam">
+  <data key="d1">14</data>
+</edge>
+<edge source="whistlepodu" target="love">
+  <data key="d1">13</data>
+</edge>
+<edge source="whistlepodu" target="msd">
+  <data key="d1">17</data>
+</edge>
+<edge source="whistlepodu" target="msdians">
+  <data key="d1">16</data>
+</edge>
+<edge source="whistlepodu" target="rohitsharma">
+  <data key="d1">12</data>
+</edge>
+<edge source="whistlepodu" target="sachintendulkar">
+  <data key="d1">8</data>
+</edge>
+<edge source="whistlepodu" target="teamindia">
+  <data key="d1">11</data>
+</edge>
+<edge source="whistlepodu" target="thala">
+  <data key="d1">17</data>
+</edge>
+<edge source="whistlepodu" target="yellove">
+  <data key="d1">15</data>
+</edge>
+<edge source="whistlepodu" target="yelloveagain">
+  <data key="d1">7</data>
+</edge>
+<edge source="whistlepodu" target="yellowe">
+  <data key="d1">6</data>
+</edge>
+<edge source="yellove" target="yelloveagain">
+  <data key="d1">7</data>
+</edge>
+<edge source="yellove" target="yellowe">
+  <data key="d1">6</data>
+</edge>
+<edge source="yelloveagain" target="yellowe">
+  <data key="d1">6</data>
+</edge>
+<edge source="bcci" target="bhfyp">
+  <data key="d1">30</data>
+</edge>
+<edge source="bcci" target="cricketer">
+  <data key="d1">25</data>
+</edge>
+<edge source="bcci" target="cricketfans">
+  <data key="d1">27</data>
+</edge>
+<edge source="bcci" target="cricketmerijaan">
+  <data key="d1">26</data>
+</edge>
+<edge source="bcci" target="dhonism">
+  <data key="d1">11</data>
+</edge>
+<edge source="bcci" target="dream">
+  <data key="d1">24</data>
+</edge>
+<edge source="bcci" target="hardikpandya">
+  <data key="d1">22</data>
+</edge>
+<edge source="bcci" target="icc">
+  <data key="d1">39</data>
+</edge>
+<edge source="bcci" target="india">
+  <data key="d1">40</data>
+</edge>
+<edge source="bcci" target="indiancricket">
+  <data key="d1">35</data>
+</edge>
+<edge source="bcci" target="indiancricketteam">
+  <data key="d1">36</data>
+</edge>
+<edge source="bcci" target="love">
+  <data key="d1">35</data>
+</edge>
+<edge source="bcci" target="msd">
+  <data key="d1">35</data>
+</edge>
+<edge source="bcci" target="msdians">
+  <data key="d1">10</data>
+</edge>
+<edge source="bcci" target="rohitsharma">
+  <data key="d1">39</data>
+</edge>
+<edge source="bcci" target="sachintendulkar">
+  <data key="d1">36</data>
+</edge>
+<edge source="bcci" target="teamindia">
+  <data key="d1">37</data>
+</edge>
+<edge source="bcci" target="thala">
+  <data key="d1">11</data>
+</edge>
+<edge source="bcci" target="virat">
+  <data key="d1">21</data>
+</edge>
+<edge source="bcci" target="worldcup">
+  <data key="d1">23</data>
+</edge>
+<edge source="bhfyp" target="cricketer">
+  <data key="d1">20</data>
+</edge>
+<edge source="bhfyp" target="cricketfans">
+  <data key="d1">20</data>
+</edge>
+<edge source="bhfyp" target="cricketmerijaan">
+  <data key="d1">20</data>
+</edge>
+<edge source="bhfyp" target="dhonism">
+  <data key="d1">11</data>
+</edge>
+<edge source="bhfyp" target="dream">
+  <data key="d1">19</data>
+</edge>
+<edge source="bhfyp" target="hardikpandya">
+  <data key="d1">19</data>
+</edge>
+<edge source="bhfyp" target="icc">
+  <data key="d1">30</data>
+</edge>
+<edge source="bhfyp" target="india">
+  <data key="d1">31</data>
+</edge>
+<edge source="bhfyp" target="indiancricket">
+  <data key="d1">30</data>
+</edge>
+<edge source="bhfyp" target="indiancricketteam">
+  <data key="d1">31</data>
+</edge>
+<edge source="bhfyp" target="love">
+  <data key="d1">32</data>
+</edge>
+<edge source="bhfyp" target="msd">
+  <data key="d1">30</data>
+</edge>
+<edge source="bhfyp" target="msdians">
+  <data key="d1">11</data>
+</edge>
+<edge source="bhfyp" target="rohitsharma">
+  <data key="d1">30</data>
+</edge>
+<edge source="bhfyp" target="sachintendulkar">
+  <data key="d1">28</data>
+</edge>
+<edge source="bhfyp" target="teamindia">
+  <data key="d1">31</data>
+</edge>
+<edge source="bhfyp" target="thala">
+  <data key="d1">11</data>
+</edge>
+<edge source="bhfyp" target="virat">
+  <data key="d1">19</data>
+</edge>
+<edge source="bhfyp" target="worldcup">
+  <data key="d1">20</data>
+</edge>
+<edge source="cricketer" target="cricketfans">
+  <data key="d1">23</data>
+</edge>
+<edge source="cricketer" target="cricketmerijaan">
+  <data key="d1">25</data>
+</edge>
+<edge source="cricketer" target="dream">
+  <data key="d1">24</data>
+</edge>
+<edge source="cricketer" target="hardikpandya">
+  <data key="d1">23</data>
+</edge>
+<edge source="cricketer" target="icc">
+  <data key="d1">25</data>
+</edge>
+<edge source="cricketer" target="india">
+  <data key="d1">25</data>
+</edge>
+<edge source="cricketer" target="indiancricket">
+  <data key="d1">25</data>
+</edge>
+<edge source="cricketer" target="indiancricketteam">
+  <data key="d1">25</data>
+</edge>
+<edge source="cricketer" target="love">
+  <data key="d1">25</data>
+</edge>
+<edge source="cricketer" target="msd">
+  <data key="d1">25</data>
+</edge>
+<edge source="cricketer" target="rohitsharma">
+  <data key="d1">25</data>
+</edge>
+<edge source="cricketer" target="sachintendulkar">
+  <data key="d1">25</data>
+</edge>
+<edge source="cricketer" target="teamindia">
+  <data key="d1">25</data>
+</edge>
+<edge source="cricketer" target="virat">
+  <data key="d1">20</data>
+</edge>
+<edge source="cricketer" target="worldcup">
+  <data key="d1">23</data>
+</edge>
+<edge source="cricketfans" target="cricketmerijaan">
+  <data key="d1">24</data>
+</edge>
+<edge source="cricketfans" target="dream">
+  <data key="d1">22</data>
+</edge>
+<edge source="cricketfans" target="hardikpandya">
+  <data key="d1">22</data>
+</edge>
+<edge source="cricketfans" target="icc">
+  <data key="d1">30</data>
+</edge>
+<edge source="cricketfans" target="india">
+  <data key="d1">30</data>
+</edge>
+<edge source="cricketfans" target="indiancricket">
+  <data key="d1">30</data>
+</edge>
+<edge source="cricketfans" target="indiancricketteam">
+  <data key="d1">27</data>
+</edge>
+<edge source="cricketfans" target="instadaily">
+  <data key="d1">8</data>
+</edge>
+<edge source="cricketfans" target="love">
+  <data key="d1">27</data>
+</edge>
+<edge source="cricketfans" target="msd">
+  <data key="d1">22</data>
+</edge>
+<edge source="cricketfans" target="rohitsharma">
+  <data key="d1">30</data>
+</edge>
+<edge source="cricketfans" target="sachintendulkar">
+  <data key="d1">26</data>
+</edge>
+<edge source="cricketfans" target="teamindia">
+  <data key="d1">23</data>
+</edge>
+<edge source="cricketfans" target="virat">
+  <data key="d1">24</data>
+</edge>
+<edge source="cricketfans" target="worldcup">
+  <data key="d1">23</data>
+</edge>
+<edge source="cricketmerijaan" target="dream">
+  <data key="d1">24</data>
+</edge>
+<edge source="cricketmerijaan" target="hardikpandya">
+  <data key="d1">24</data>
+</edge>
+<edge source="cricketmerijaan" target="icc">
+  <data key="d1">25</data>
+</edge>
+<edge source="cricketmerijaan" target="india">
+  <data key="d1">27</data>
+</edge>
+<edge source="cricketmerijaan" target="indiancricket">
+  <data key="d1">24</data>
+</edge>
+<edge source="cricketmerijaan" target="indiancricketteam">
+  <data key="d1">25</data>
+</edge>
+<edge source="cricketmerijaan" target="love">
+  <data key="d1">25</data>
+</edge>
+<edge source="cricketmerijaan" target="msd">
+  <data key="d1">24</data>
+</edge>
+<edge source="cricketmerijaan" target="rohitsharma">
+  <data key="d1">27</data>
+</edge>
+<edge source="cricketmerijaan" target="sachintendulkar">
+  <data key="d1">27</data>
+</edge>
+<edge source="cricketmerijaan" target="teamindia">
+  <data key="d1">27</data>
+</edge>
+<edge source="cricketmerijaan" target="virat">
+  <data key="d1">22</data>
+</edge>
+<edge source="cricketmerijaan" target="worldcup">
+  <data key="d1">23</data>
+</edge>
+<edge source="dhonism" target="icc">
+  <data key="d1">11</data>
+</edge>
+<edge source="dhonism" target="india">
+  <data key="d1">12</data>
+</edge>
+<edge source="dhonism" target="indiancricket">
+  <data key="d1">14</data>
+</edge>
+<edge source="dhonism" target="indiancricketteam">
+  <data key="d1">14</data>
+</edge>
+<edge source="dhonism" target="love">
+  <data key="d1">10</data>
+</edge>
+<edge source="dhonism" target="mahendrasinghdhoni">
+  <data key="d1">8</data>
+</edge>
+<edge source="dhonism" target="msd">
+  <data key="d1">16</data>
+</edge>
+<edge source="dhonism" target="msdians">
+  <data key="d1">15</data>
+</edge>
+<edge source="dhonism" target="rohitsharma">
+  <data key="d1">14</data>
+</edge>
+<edge source="dhonism" target="sachintendulkar">
+  <data key="d1">9</data>
+</edge>
+<edge source="dhonism" target="teamindia">
+  <data key="d1">14</data>
+</edge>
+<edge source="dhonism" target="thala">
+  <data key="d1">16</data>
+</edge>
+<edge source="dream" target="hardikpandya">
+  <data key="d1">22</data>
+</edge>
+<edge source="dream" target="icc">
+  <data key="d1">24</data>
+</edge>
+<edge source="dream" target="india">
+  <data key="d1">24</data>
+</edge>
+<edge source="dream" target="indiancricket">
+  <data key="d1">24</data>
+</edge>
+<edge source="dream" target="indiancricketteam">
+  <data key="d1">24</data>
+</edge>
+<edge source="dream" target="love">
+  <data key="d1">24</data>
+</edge>
+<edge source="dream" target="msd">
+  <data key="d1">24</data>
+</edge>
+<edge source="dream" target="rohitsharma">
+  <data key="d1">24</data>
+</edge>
+<edge source="dream" target="sachintendulkar">
+  <data key="d1">24</data>
+</edge>
+<edge source="dream" target="teamindia">
+  <data key="d1">24</data>
+</edge>
+<edge source="dream" target="virat">
+  <data key="d1">20</data>
+</edge>
+<edge source="dream" target="worldcup">
+  <data key="d1">22</data>
+</edge>
+<edge source="hardikpandya" target="icc">
+  <data key="d1">22</data>
+</edge>
+<edge source="hardikpandya" target="india">
+  <data key="d1">24</data>
+</edge>
+<edge source="hardikpandya" target="indiancricket">
+  <data key="d1">24</data>
+</edge>
+<edge source="hardikpandya" target="indiancricketteam">
+  <data key="d1">22</data>
+</edge>
+<edge source="hardikpandya" target="love">
+  <data key="d1">22</data>
+</edge>
+<edge source="hardikpandya" target="msd">
+  <data key="d1">22</data>
+</edge>
+<edge source="hardikpandya" target="rohitsharma">
+  <data key="d1">34</data>
+</edge>
+<edge source="hardikpandya" target="sachintendulkar">
+  <data key="d1">24</data>
+</edge>
+<edge source="hardikpandya" target="teamindia">
+  <data key="d1">25</data>
+</edge>
+<edge source="hardikpandya" target="virat">
+  <data key="d1">22</data>
+</edge>
+<edge source="hardikpandya" target="worldcup">
+  <data key="d1">22</data>
+</edge>
+<edge source="icc" target="india">
+  <data key="d1">44</data>
+</edge>
+<edge source="icc" target="indiancricket">
+  <data key="d1">43</data>
+</edge>
+<edge source="icc" target="indiancricketteam">
+  <data key="d1">40</data>
+</edge>
+<edge source="icc" target="instadaily">
+  <data key="d1">8</data>
+</edge>
+<edge source="icc" target="love">
+  <data key="d1">40</data>
+</edge>
+<edge source="icc" target="msd">
+  <data key="d1">35</data>
+</edge>
+<edge source="icc" target="msdians">
+  <data key="d1">10</data>
+</edge>
+<edge source="icc" target="rohitsharma">
+  <data key="d1">43</data>
+</edge>
+<edge source="icc" target="sachintendulkar">
+  <data key="d1">36</data>
+</edge>
+<edge source="icc" target="teamindia">
+  <data key="d1">36</data>
+</edge>
+<edge source="icc" target="thala">
+  <data key="d1">11</data>
+</edge>
+<edge source="icc" target="virat">
+  <data key="d1">24</data>
+</edge>
+<edge source="icc" target="worldcup">
+  <data key="d1">23</data>
+</edge>
+<edge source="india" target="delhi">
+  <data key="d1">8</data>
+</edge>
+<edge source="india" target="indiancricket">
+  <data key="d1">44</data>
+</edge>
+<edge source="india" target="indiancricketteam">
+  <data key="d1">44</data>
+</edge>
+<edge source="india" target="insta">
+  <data key="d1">6</data>
+</edge>
+<edge source="india" target="instadaily">
+  <data key="d1">11</data>
+</edge>
+<edge source="india" target="instagood">
+  <data key="d1">9</data>
+</edge>
+<edge source="india" target="love">
+  <data key="d1">47</data>
+</edge>
+<edge source="india" target="msd">
+  <data key="d1">39</data>
+</edge>
+<edge source="india" target="msdians">
+  <data key="d1">16</data>
+</edge>
+<edge source="india" target="photography">
+  <data key="d1">7</data>
+</edge>
+<edge source="india" target="rohitsharma">
+  <data key="d1">49</data>
+</edge>
+<edge source="india" target="sachintendulkar">
+  <data key="d1">39</data>
+</edge>
+<edge source="india" target="teamindia">
+  <data key="d1">40</data>
+</edge>
+<edge source="india" target="thala">
+  <data key="d1">15</data>
+</edge>
+<edge source="india" target="virat">
+  <data key="d1">27</data>
+</edge>
+<edge source="india" target="worldcup">
+  <data key="d1">23</data>
+</edge>
+<edge source="indiancricket" target="indiancricket">
+  <data key="d1">8</data>
+</edge>
+<edge source="indiancricket" target="indiancricketteam">
+  <data key="d1">47</data>
+</edge>
+<edge source="indiancricket" target="insta">
+  <data key="d1">14</data>
+</edge>
+<edge source="indiancricket" target="instadaily">
+  <data key="d1">17</data>
+</edge>
+<edge source="indiancricket" target="instagood">
+  <data key="d1">13</data>
+</edge>
+<edge source="indiancricket" target="instalike">
+  <data key="d1">9</data>
+</edge>
+<edge source="indiancricket" target="instaphoto">
+  <data key="d1">8</data>
+</edge>
+<edge source="indiancricket" target="instapic">
+  <data key="d1">10</data>
+</edge>
+<edge source="indiancricket" target="love">
+  <data key="d1">42</data>
+</edge>
+<edge source="indiancricket" target="loveyourself">
+  <data key="d1">8</data>
+</edge>
+<edge source="indiancricket" target="match">
+  <data key="d1">8</data>
+</edge>
+<edge source="indiancricket" target="msd">
+  <data key="d1">38</data>
+</edge>
+<edge source="indiancricket" target="msdians">
+  <data key="d1">13</data>
+</edge>
+<edge source="indiancricket" target="photo">
+  <data key="d1">8</data>
+</edge>
+<edge source="indiancricket" target="photographer">
+  <data key="d1">8</data>
+</edge>
+<edge source="indiancricket" target="photography">
+  <data key="d1">8</data>
+</edge>
+<edge source="indiancricket" target="photooftheday">
+  <data key="d1">8</data>
+</edge>
+<edge source="indiancricket" target="photoshoot">
+  <data key="d1">8</data>
+</edge>
+<edge source="indiancricket" target="rohitsharma">
+  <data key="d1">50</data>
+</edge>
+<edge source="indiancricket" target="sachintendulkar">
+  <data key="d1">37</data>
+</edge>
+<edge source="indiancricket" target="share">
+  <data key="d1">8</data>
+</edge>
+<edge source="indiancricket" target="teamindia">
+  <data key="d1">38</data>
+</edge>
+<edge source="indiancricket" target="thala">
+  <data key="d1">14</data>
+</edge>
+<edge source="indiancricket" target="virat">
+  <data key="d1">28</data>
+</edge>
+<edge source="indiancricket" target="worldcup">
+  <data key="d1">22</data>
+</edge>
+<edge source="indiancricketteam" target="insta">
+  <data key="d1">6</data>
+</edge>
+<edge source="indiancricketteam" target="instadaily">
+  <data key="d1">9</data>
+</edge>
+<edge source="indiancricketteam" target="instagood">
+  <data key="d1">8</data>
+</edge>
+<edge source="indiancricketteam" target="instapic">
+  <data key="d1">6</data>
+</edge>
+<edge source="indiancricketteam" target="love">
+  <data key="d1">42</data>
+</edge>
+<edge source="indiancricketteam" target="msd">
+  <data key="d1">41</data>
+</edge>
+<edge source="indiancricketteam" target="msdians">
+  <data key="d1">16</data>
+</edge>
+<edge source="indiancricketteam" target="rohitsharma">
+  <data key="d1">40</data>
+</edge>
+<edge source="indiancricketteam" target="sachintendulkar">
+  <data key="d1">34</data>
+</edge>
+<edge source="indiancricketteam" target="teamindia">
+  <data key="d1">39</data>
+</edge>
+<edge source="indiancricketteam" target="thala">
+  <data key="d1">17</data>
+</edge>
+<edge source="indiancricketteam" target="virat">
+  <data key="d1">24</data>
+</edge>
+<edge source="indiancricketteam" target="worldcup">
+  <data key="d1">23</data>
+</edge>
+<edge source="love" target="insta">
+  <data key="d1">6</data>
+</edge>
+<edge source="love" target="instadaily">
+  <data key="d1">10</data>
+</edge>
+<edge source="love" target="instagood">
+  <data key="d1">11</data>
+</edge>
+<edge source="love" target="msd">
+  <data key="d1">37</data>
+</edge>
+<edge source="love" target="msdians">
+  <data key="d1">13</data>
+</edge>
+<edge source="love" target="photography">
+  <data key="d1">8</data>
+</edge>
+<edge source="love" target="rohitsharma">
+  <data key="d1">39</data>
+</edge>
+<edge source="love" target="sachintendulkar">
+  <data key="d1">32</data>
+</edge>
+<edge source="love" target="teamindia">
+  <data key="d1">35</data>
+</edge>
+<edge source="love" target="thala">
+  <data key="d1">13</data>
+</edge>
+<edge source="love" target="virat">
+  <data key="d1">24</data>
+</edge>
+<edge source="love" target="worldcup">
+  <data key="d1">23</data>
+</edge>
+<edge source="msd" target="mahendrasinghdhoni">
+  <data key="d1">6</data>
+</edge>
+<edge source="msd" target="msdians">
+  <data key="d1">18</data>
+</edge>
+<edge source="msd" target="rohitsharma">
+  <data key="d1">36</data>
+</edge>
+<edge source="msd" target="sachintendulkar">
+  <data key="d1">33</data>
+</edge>
+<edge source="msd" target="teamindia">
+  <data key="d1">38</data>
+</edge>
+<edge source="msd" target="thala">
+  <data key="d1">20</data>
+</edge>
+<edge source="msd" target="virat">
+  <data key="d1">21</data>
+</edge>
+<edge source="msd" target="worldcup">
+  <data key="d1">22</data>
+</edge>
+<edge source="msdians" target="rohitsharma">
+  <data key="d1">13</data>
+</edge>
+<edge source="msdians" target="sachintendulkar">
+  <data key="d1">10</data>
+</edge>
+<edge source="msdians" target="teamindia">
+  <data key="d1">15</data>
+</edge>
+<edge source="msdians" target="thala">
+  <data key="d1">18</data>
+</edge>
+<edge source="rohitsharma" target="instadaily">
+  <data key="d1">8</data>
+</edge>
+<edge source="rohitsharma" target="instagood">
+  <data key="d1">6</data>
+</edge>
+<edge source="rohitsharma" target="jaspritbumrah">
+  <data key="d1">6</data>
+</edge>
+<edge source="rohitsharma" target="photo">
+  <data key="d1">6</data>
+</edge>
+<edge source="rohitsharma" target="photography">
+  <data key="d1">6</data>
+</edge>
+<edge source="rohitsharma" target="photooftheday">
+  <data key="d1">6</data>
+</edge>
+<edge source="rohitsharma" target="photoshoot">
+  <data key="d1">6</data>
+</edge>
+<edge source="rohitsharma" target="sachintendulkar">
+  <data key="d1">42</data>
+</edge>
+<edge source="rohitsharma" target="teamindia">
+  <data key="d1">39</data>
+</edge>
+<edge source="rohitsharma" target="thala">
+  <data key="d1">12</data>
+</edge>
+<edge source="rohitsharma" target="virat">
+  <data key="d1">26</data>
+</edge>
+<edge source="rohitsharma" target="worldcup">
+  <data key="d1">22</data>
+</edge>
+<edge source="sachintendulkar" target="teamindia">
+  <data key="d1">36</data>
+</edge>
+<edge source="sachintendulkar" target="thala">
+  <data key="d1">9</data>
+</edge>
+<edge source="sachintendulkar" target="virat">
+  <data key="d1">22</data>
+</edge>
+<edge source="sachintendulkar" target="worldcup">
+  <data key="d1">23</data>
+</edge>
+<edge source="teamindia" target="thala">
+  <data key="d1">14</data>
+</edge>
+<edge source="teamindia" target="virat">
+  <data key="d1">23</data>
+</edge>
+<edge source="teamindia" target="worldcup">
+  <data key="d1">23</data>
+</edge>
+<edge source="thala" target="dhoni7">
+  <data key="d1">11</data>
+</edge>
+<edge source="thala" target="funnymemes">
+  <data key="d1">14</data>
+</edge>
+<edge source="thala" target="instashare">
+  <data key="d1">7</data>
+</edge>
+<edge source="thala" target="instashayari">
+  <data key="d1">7</data>
+</edge>
+<edge source="thala" target="lockdown">
+  <data key="d1">7</data>
+</edge>
+<edge source="thala" target="mahendrasinghdhoni">
+  <data key="d1">6</data>
+</edge>
+<edge source="thala" target="mahimahi">
+  <data key="d1">7</data>
+</edge>
+<edge source="thala" target="meme">
+  <data key="d1">7</data>
+</edge>
+<edge source="thala" target="memes">
+  <data key="d1">8</data>
+</edge>
+<edge source="thala" target="quarantine">
+  <data key="d1">7</data>
+</edge>
+<edge source="thala" target="quarantinelife">
+  <data key="d1">7</data>
+</edge>
+<edge source="thala" target="shayari">
+  <data key="d1">7</data>
+</edge>
+<edge source="virat" target="instadaily">
+  <data key="d1">8</data>
+</edge>
+<edge source="virat" target="worldcup">
+  <data key="d1">20</data>
+</edge>
+<edge source="birthday" target="funnymemes">
+  <data key="d1">6</data>
+</edge>
+<edge source="funnymemes" target="birthdayboy">
+  <data key="d1">6</data>
+</edge>
+<edge source="funnymemes" target="dhoni7">
+  <data key="d1">6</data>
+</edge>
+<edge source="funnymemes" target="friends">
+  <data key="d1">6</data>
+</edge>
+<edge source="funnymemes" target="friendship">
+  <data key="d1">6</data>
+</edge>
+<edge source="funnymemes" target="funnymemes">
+  <data key="d1">6</data>
+</edge>
+<edge source="funnymemes" target="gangabairaj">
+  <data key="d1">6</data>
+</edge>
+<edge source="funnymemes" target="instashare">
+  <data key="d1">9</data>
+</edge>
+<edge source="funnymemes" target="instashayari">
+  <data key="d1">9</data>
+</edge>
+<edge source="funnymemes" target="kanpur">
+  <data key="d1">6</data>
+</edge>
+<edge source="funnymemes" target="lockdown">
+  <data key="d1">9</data>
+</edge>
+<edge source="funnymemes" target="maa">
+  <data key="d1">6</data>
+</edge>
+<edge source="funnymemes" target="meme">
+  <data key="d1">7</data>
+</edge>
+<edge source="funnymemes" target="memes">
+  <data key="d1">12</data>
+</edge>
+<edge source="funnymemes" target="quarantine">
+  <data key="d1">9</data>
+</edge>
+<edge source="funnymemes" target="quarantinelife">
+  <data key="d1">9</data>
+</edge>
+<edge source="funnymemes" target="rakshabandhan">
+  <data key="d1">6</data>
+</edge>
+<edge source="funnymemes" target="respect">
+  <data key="d1">6</data>
+</edge>
+<edge source="funnymemes" target="shayari">
+  <data key="d1">9</data>
+</edge>
+<edge source="funnymemes" target="sisters">
+  <data key="d1">6</data>
+</edge>
+<edge source="funnymemes" target="thekaplisharmashow">
+  <data key="d1">6</data>
+</edge>
+<edge source="funnymemes" target="zsquare">
+  <data key="d1">6</data>
+</edge>
+<edge source="meme" target="fun">
+  <data key="d1">6</data>
+</edge>
+<edge source="meme" target="memes">
+  <data key="d1">14</data>
+</edge>
+<edge source="comment4comment" target="tamilindustry">
+  <data key="d1">6</data>
+</edge>
+<edge source="tamilindustry" target="instamillion">
+  <data key="d1">6</data>
+</edge>
+<edge source="tamilindustry" target="likeforlikes">
+  <data key="d1">6</data>
+</edge>
+<edge source="tamilindustry" target="tamilanda">
+  <data key="d1">6</data>
+</edge>
+<edge source="tamilindustry" target="tamiljoke">
+  <data key="d1">6</data>
+</edge>
+<edge source="tamilindustry" target="tamilkavithai">
+  <data key="d1">6</data>
+</edge>
+<edge source="tamilindustry" target="tamilmemes1">
+  <data key="d1">6</data>
+</edge>
+<edge source="tamilindustry" target="tamilstory">
+  <data key="d1">6</data>
+</edge>
+<edge source="cricketlife" target="cricketlovers">
+  <data key="d1">9</data>
+</edge>
+<edge source="cricketlife" target="mumbaiindiansfan">
+  <data key="d1">6</data>
+</edge>
+<edge source="cricketlover" target="cricketlovers">
+  <data key="d1">9</data>
+</edge>
+<edge source="cricketlover" target="mumbaiindiansfan">
+  <data key="d1">6</data>
+</edge>
+<edge source="cricketlovers" target="cricketlovers">
+  <data key="d1">8</data>
+</edge>
+<edge source="cricketlovers" target="cricketwireless">
+  <data key="d1">8</data>
+</edge>
+<edge source="cricketlovers" target="cskvsrcb">
+  <data key="d1">8</data>
+</edge>
+<edge source="cricketlovers" target="mumbaiindiansfan">
+  <data key="d1">12</data>
+</edge>
+<edge source="cricketwireless" target="mumbaiindiansfan">
+  <data key="d1">6</data>
+</edge>
+<edge source="cskvsrcb" target="mumbaiindiansfan">
+  <data key="d1">6</data>
+</edge>
+<edge source="fun" target="lol">
+  <data key="d1">6</data>
+</edge>
+<edge source="insta" target="instadaily">
+  <data key="d1">10</data>
+</edge>
+<edge source="insta" target="instagood">
+  <data key="d1">6</data>
+</edge>
+<edge source="insta" target="instalike">
+  <data key="d1">7</data>
+</edge>
+<edge source="insta" target="instapic">
+  <data key="d1">10</data>
+</edge>
+<edge source="insta" target="photography">
+  <data key="d1">6</data>
+</edge>
+<edge source="instadaily" target="instadaily">
+  <data key="d1">8</data>
+</edge>
+<edge source="instadaily" target="instagood">
+  <data key="d1">14</data>
+</edge>
+<edge source="instadaily" target="instalike">
+  <data key="d1">9</data>
+</edge>
+<edge source="instadaily" target="instaphoto">
+  <data key="d1">8</data>
+</edge>
+<edge source="instadaily" target="instapic">
+  <data key="d1">10</data>
+</edge>
+<edge source="instadaily" target="loveyourself">
+  <data key="d1">8</data>
+</edge>
+<edge source="instadaily" target="match">
+  <data key="d1">8</data>
+</edge>
+<edge source="instadaily" target="memes">
+  <data key="d1">6</data>
+</edge>
+<edge source="instadaily" target="photo">
+  <data key="d1">8</data>
+</edge>
+<edge source="instadaily" target="photographer">
+  <data key="d1">8</data>
+</edge>
+<edge source="instadaily" target="photography">
+  <data key="d1">11</data>
+</edge>
+<edge source="instadaily" target="photooftheday">
+  <data key="d1">8</data>
+</edge>
+<edge source="instadaily" target="photoshoot">
+  <data key="d1">8</data>
+</edge>
+<edge source="instadaily" target="share">
+  <data key="d1">8</data>
+</edge>
+<edge source="instagood" target="instapic">
+  <data key="d1">6</data>
+</edge>
+<edge source="instagood" target="life">
+  <data key="d1">6</data>
+</edge>
+<edge source="instagood" target="photo">
+  <data key="d1">8</data>
+</edge>
+<edge source="instagood" target="photography">
+  <data key="d1">12</data>
+</edge>
+<edge source="instagood" target="photooftheday">
+  <data key="d1">7</data>
+</edge>
+<edge source="instagood" target="photoshoot">
+  <data key="d1">6</data>
+</edge>
+<edge source="instalike" target="instapic">
+  <data key="d1">6</data>
+</edge>
+<edge source="photography" target="photo">
+  <data key="d1">6</data>
+</edge>
+<edge source="photography" target="photooftheday">
+  <data key="d1">7</data>
+</edge>
+<edge source="photography" target="photoshoot">
+  <data key="d1">8</data>
+</edge>
+<edge source="photoshoot" target="photo">
+  <data key="d1">6</data>
+</edge>
+<edge source="photoshoot" target="photooftheday">
+  <data key="d1">6</data>
+</edge>
+<edge source="ipl2020updates" target="iplnews">
+  <data key="d1">6</data>
+</edge>
+<edge source="ipl2020updates" target="ipluae">
+  <data key="d1">6</data>
+</edge>
+<edge source="iplnews" target="ipluae">
+  <data key="d1">6</data>
+</edge>
+<edge source="memes" target="dankmemes">
+  <data key="d1">14</data>
+</edge>
+<edge source="memes" target="explore">
+  <data key="d1">8</data>
+</edge>
+<edge source="memes" target="exploremore">
+  <data key="d1">6</data>
+</edge>
+<edge source="memes" target="funny">
+  <data key="d1">6</data>
+</edge>
+<edge source="memes" target="haha">
+  <data key="d1">6</data>
+</edge>
+<edge source="memes" target="memes">
+  <data key="d1">10</data>
+</edge>
+<edge source="memes" target="memesdaily">
+  <data key="d1">6</data>
+</edge>
+<edge source="photo" target="photooftheday">
+  <data key="d1">6</data>
+</edge>
+<edge source="dankmemes" target="dankmemes">
+  <data key="d1">6</data>
+</edge>
+<edge source="dankmemes" target="explore">
+  <data key="d1">7</data>
+</edge>
+<edge source="dankmemes" target="funny">
+  <data key="d1">6</data>
+</edge>
+<edge source="dankmemes" target="trending">
+  <data key="d1">10</data>
+</edge>
+</graph></graphml>
